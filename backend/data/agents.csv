@@ -1,0 +1,14 @@
+id,name,town,specialty,phone,email
+1,Kasun Perera,Colombo,Apartment,0771234567,kasun.perera@example.com
+2,Nimal Fernando,Colombo,House,0772345678,nimal.fernando@example.com
+3,Dilani Wickramasinghe,Colombo,Land,0773456789,dilani.w@example.com
+4,Rohan De Silva,Kandy,House,0774567890,rohan.desilva@example.com
+5,Priya Jayawardena,Kandy,Apartment,0775678901,priya.j@example.com
+6,Sunil Silva,Galle,House,0776789012,sunil.silva@example.com
+7,Anura Bandara,Galle,Land,0777890123,anura.b@example.com
+8,Tharushi Senanayake,Negombo,House,0778901234,tharushi.s@example.com
+9,Mohamed Rizwan,Negombo,Apartment,0779012345,m.rizwan@example.com
+10,Suresh Kumar,Jaffna,House,0711234567,suresh.kumar@example.com
+11,Kavinda Rathnayake,Kurunegala,Land,0712345678,kavinda.r@example.com
+12,Chamari Atapattu,Matara,House,0713456789,chamari.a@example.com
+13,Dinesh Gunawardena,Kataragama,Land,0714567890,dinesh.g@example.com

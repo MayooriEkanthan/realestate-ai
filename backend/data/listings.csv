@@ -1,501 +1,501 @@
-id,town,type,bedrooms,area_sqft,perches,price_lkr,description
-1,Colombo,Apartment,3,3573,0,115530000.0,"3 bedroom apartment in Colombo, near main road, close to the beach"
-2,Kataragama,Land,0,0,8,2370000.0,"8 perch land in Kataragama, near main road, quiet neighbourhood"
-3,Matara,House,2,1891,31,34200000.0,"2 bedroom house in Matara, close to the beach, with garden"
-4,Negombo,House,2,2103,8,38770000.0,"2 bedroom house in Negombo, with garden, newly renovated"
-5,Negombo,House,3,3292,6,58150000.0,"3 bedroom house in Negombo, near main road, quiet neighbourhood"
-6,Kataragama,Apartment,2,951,0,7700000.0,"2 bedroom apartment in Kataragama, with garden, near school"
-7,Colombo,Land,0,0,21,25430000.0,"21 perch land in Colombo, newly renovated, quiet neighbourhood"
-8,Matara,House,3,1033,26,24110000.0,"3 bedroom house in Matara, near main road, quiet neighbourhood"
-9,Kandy,House,5,3256,19,66040000.0,"5 bedroom house in Kandy, near main road, near school"
-10,Colombo,Apartment,4,2712,0,75230000.0,"4 bedroom apartment in Colombo, near main road, newly renovated"
-11,Kurunegala,House,2,2238,11,27730000.0,"2 bedroom house in Kurunegala, near main road, near hospital"
-12,Jaffna,Land,0,0,34,13340000.0,"34 perch land in Jaffna, quiet neighbourhood, near school"
-13,Matara,House,4,1036,38,34310000.0,"4 bedroom house in Matara, with garden, quiet neighbourhood"
-14,Kataragama,House,2,3726,31,28600000.0,"2 bedroom house in Kataragama, near main road, quiet neighbourhood"
-15,Matara,Land,0,0,8,3900000.0,"8 perch land in Matara, with parking, near hospital"
-16,Kataragama,House,5,1617,33,24460000.0,"5 bedroom house in Kataragama, near main road, with parking"
-17,Kurunegala,House,3,1948,29,39910000.0,"3 bedroom house in Kurunegala, newly renovated, with garden"
-18,Kandy,House,1,3041,23,58450000.0,"1 bedroom house in Kandy, near school, near hospital"
-19,Kataragama,House,3,3018,10,23910000.0,"3 bedroom house in Kataragama, near hospital, near main road"
-20,Negombo,House,3,2113,39,68470000.0,"3 bedroom house in Negombo, near hospital, near main road"
-21,Kurunegala,House,5,1560,20,30090000.0,"5 bedroom house in Kurunegala, near school, with parking"
-22,Galle,House,4,2809,6,51390000.0,"4 bedroom house in Galle, near main road, with parking"
-23,Kandy,House,1,2803,12,54600000.0,"1 bedroom house in Kandy, newly renovated, with parking"
-24,Jaffna,Apartment,1,2598,0,20180000.0,"1 bedroom apartment in Jaffna, close to the beach, near hospital"
-25,Kataragama,Apartment,4,754,0,8610000.0,"4 bedroom apartment in Kataragama, near hospital, with parking"
-26,Matara,House,1,2154,16,28590000.0,"1 bedroom house in Matara, newly renovated, near main road"
-27,Negombo,House,2,2648,21,57280000.0,"2 bedroom house in Negombo, with parking, close to the beach"
-28,Kataragama,Apartment,1,3825,0,22200000.0,"1 bedroom apartment in Kataragama, near main road, near school"
-29,Kurunegala,Land,0,0,8,3690000.0,"8 perch land in Kurunegala, with parking, newly renovated"
-30,Negombo,Land,0,0,25,17120000.0,"25 perch land in Negombo, with parking, with garden"
-31,Negombo,House,1,2445,37,56840000.0,"1 bedroom house in Negombo, close to the beach, near school"
-32,Kandy,House,1,1120,33,44340000.0,"1 bedroom house in Kandy, close to the beach, near school"
-33,Colombo,House,5,817,37,85530000.0,"5 bedroom house in Colombo, near school, with parking"
-34,Kurunegala,House,1,2873,10,28850000.0,"1 bedroom house in Kurunegala, near school, near main road"
-35,Jaffna,Apartment,5,3951,0,32310000.0,"5 bedroom apartment in Jaffna, close to the beach, with garden"
-36,Colombo,House,1,3461,39,136480000.0,"1 bedroom house in Colombo, near school, quiet neighbourhood"
-37,Kataragama,House,1,2542,16,22460000.0,"1 bedroom house in Kataragama, with garden, near school"
-38,Kataragama,House,1,640,22,10720000.0,"1 bedroom house in Kataragama, close to the beach, with parking"
-39,Galle,Apartment,4,3957,0,64070000.0,"4 bedroom apartment in Galle, newly renovated, near hospital"
-40,Matara,House,4,2073,22,33220000.0,"4 bedroom house in Matara, newly renovated, near school"
-41,Kandy,Land,0,0,15,10960000.0,"15 perch land in Kandy, near school, close to the beach"
-42,Kataragama,House,2,3623,38,34650000.0,"2 bedroom house in Kataragama, quiet neighbourhood, close to the beach"
-43,Matara,Land,0,0,38,20800000.0,"38 perch land in Matara, with parking, near main road"
-44,Galle,House,3,3123,18,61290000.0,"3 bedroom house in Galle, quiet neighbourhood, near hospital"
-45,Colombo,Land,0,0,33,43800000.0,"33 perch land in Colombo, quiet neighbourhood, with garden"
-46,Jaffna,Land,0,0,18,6740000.0,"18 perch land in Jaffna, with garden, quiet neighbourhood"
-47,Negombo,Land,0,0,32,17960000.0,"32 perch land in Negombo, quiet neighbourhood, with parking"
-48,Jaffna,Land,0,0,25,8970000.0,"25 perch land in Jaffna, quiet neighbourhood, close to the beach"
-49,Matara,Apartment,3,3128,0,40510000.0,"3 bedroom apartment in Matara, with garden, close to the beach"
-50,Kataragama,Apartment,1,2809,0,18730000.0,"1 bedroom apartment in Kataragama, with garden, near main road"
-51,Kataragama,Apartment,2,1103,0,8680000.0,"2 bedroom apartment in Kataragama, near main road, quiet neighbourhood"
-52,Kandy,House,5,1558,16,48310000.0,"5 bedroom house in Kandy, with garden, near hospital"
-53,Galle,Apartment,3,1764,0,31310000.0,"3 bedroom apartment in Galle, quiet neighbourhood, with garden"
-54,Negombo,Apartment,4,3816,0,49330000.0,"4 bedroom apartment in Negombo, near main road, newly renovated"
-55,Negombo,Land,0,0,39,22780000.0,"39 perch land in Negombo, near main road, quiet neighbourhood"
-56,Colombo,House,1,1782,8,63570000.0,"1 bedroom house in Colombo, near main road, close to the beach"
-57,Kurunegala,House,5,3071,32,45290000.0,"5 bedroom house in Kurunegala, quiet neighbourhood, close to the beach"
-58,Kandy,Apartment,4,3084,0,61150000.0,"4 bedroom apartment in Kandy, near main road, near school"
-59,Matara,House,5,1879,6,27460000.0,"5 bedroom house in Matara, newly renovated, near school"
-60,Matara,House,5,1910,25,32020000.0,"5 bedroom house in Matara, with garden, near school"
-61,Jaffna,House,2,3630,25,33300000.0,"2 bedroom house in Jaffna, quiet neighbourhood, near main road"
-62,Matara,House,2,2466,17,27670000.0,"2 bedroom house in Matara, newly renovated, near school"
-63,Galle,House,2,1023,28,35630000.0,"2 bedroom house in Galle, quiet neighbourhood, near school"
-64,Jaffna,House,5,3019,19,32870000.0,"5 bedroom house in Jaffna, with garden, near hospital"
-65,Negombo,House,3,2563,20,51680000.0,"3 bedroom house in Negombo, with garden, near main road"
-66,Galle,House,3,2281,20,53980000.0,"3 bedroom house in Galle, near hospital, close to the beach"
-67,Jaffna,House,5,3037,33,42240000.0,"5 bedroom house in Jaffna, newly renovated, with garden"
-68,Galle,Apartment,4,3674,0,56020000.0,"4 bedroom apartment in Galle, newly renovated, quiet neighbourhood"
-69,Colombo,House,5,1656,18,72150000.0,"5 bedroom house in Colombo, close to the beach, newly renovated"
-70,Negombo,Land,0,0,37,26210000.0,"37 perch land in Negombo, newly renovated, near main road"
-71,Kataragama,Land,0,0,33,10860000.0,"33 perch land in Kataragama, near school, newly renovated"
-72,Kandy,House,2,2764,37,76520000.0,"2 bedroom house in Kandy, with parking, quiet neighbourhood"
-73,Negombo,House,4,1909,30,57400000.0,"4 bedroom house in Negombo, newly renovated, quiet neighbourhood"
-74,Kandy,Apartment,5,1698,0,32810000.0,"5 bedroom apartment in Kandy, near school, close to the beach"
-75,Matara,Land,0,0,32,18390000.0,"32 perch land in Matara, near main road, newly renovated"
-76,Negombo,Apartment,2,1928,0,27350000.0,"2 bedroom apartment in Negombo, close to the beach, near school"
-77,Galle,Land,0,0,14,10020000.0,"14 perch land in Galle, with garden, near hospital"
-78,Kandy,Apartment,4,2040,0,34060000.0,"4 bedroom apartment in Kandy, with parking, with garden"
-79,Kurunegala,Apartment,1,1404,0,12810000.0,"1 bedroom apartment in Kurunegala, close to the beach, near main road"
-80,Matara,House,4,940,24,29680000.0,"4 bedroom house in Matara, close to the beach, with garden"
-81,Jaffna,Apartment,2,3395,0,25810000.0,"2 bedroom apartment in Jaffna, near main road, quiet neighbourhood"
-82,Negombo,House,2,821,21,30800000.0,"2 bedroom house in Negombo, close to the beach, near main road"
-83,Kandy,Apartment,3,1637,0,31760000.0,"3 bedroom apartment in Kandy, near main road, near school"
-84,Kataragama,Land,0,0,28,8750000.0,"28 perch land in Kataragama, with garden, near school"
-85,Matara,House,4,959,17,25720000.0,"4 bedroom house in Matara, near main road, with parking"
-86,Matara,Apartment,2,2794,0,29730000.0,"2 bedroom apartment in Matara, with parking, near main road"
-87,Colombo,House,5,3065,17,106080000.0,"5 bedroom house in Colombo, near school, newly renovated"
-88,Galle,Apartment,1,2820,0,37310000.0,"1 bedroom apartment in Galle, close to the beach, quiet neighbourhood"
-89,Kataragama,House,5,1567,38,27190000.0,"5 bedroom house in Kataragama, with parking, near school"
-90,Kataragama,Land,0,0,17,5520000.0,"17 perch land in Kataragama, near hospital, close to the beach"
-91,Negombo,House,4,3605,7,53000000.0,"4 bedroom house in Negombo, close to the beach, quiet neighbourhood"
-92,Kataragama,Land,0,0,18,5340000.0,"18 perch land in Kataragama, quiet neighbourhood, near school"
-93,Kataragama,Land,0,0,23,6910000.0,"23 perch land in Kataragama, newly renovated, with parking"
-94,Negombo,Apartment,1,1192,0,17370000.0,"1 bedroom apartment in Negombo, near main road, near school"
-95,Jaffna,Apartment,4,1068,0,10260000.0,"4 bedroom apartment in Jaffna, quiet neighbourhood, near school"
-96,Galle,Apartment,1,3223,0,43030000.0,"1 bedroom apartment in Galle, with parking, quiet neighbourhood"
-97,Kandy,Land,0,0,22,15850000.0,"22 perch land in Kandy, close to the beach, near school"
-98,Matara,House,4,3512,30,58290000.0,"4 bedroom house in Matara, with garden, newly renovated"
-99,Matara,Apartment,5,3129,0,40010000.0,"5 bedroom apartment in Matara, newly renovated, with parking"
-100,Kandy,House,4,1363,18,42280000.0,"4 bedroom house in Kandy, near hospital, with parking"
-101,Kataragama,Apartment,2,3696,0,24180000.0,"2 bedroom apartment in Kataragama, with parking, quiet neighbourhood"
-102,Kandy,House,4,2837,12,61430000.0,"4 bedroom house in Kandy, with parking, near school"
-103,Kataragama,Apartment,5,1102,0,10410000.0,"5 bedroom apartment in Kataragama, with parking, quiet neighbourhood"
-104,Colombo,Apartment,2,952,0,29890000.0,"2 bedroom apartment in Colombo, near hospital, near school"
-105,Kataragama,House,1,3549,31,30480000.0,"1 bedroom house in Kataragama, quiet neighbourhood, near main road"
-106,Kataragama,Apartment,5,1463,0,12740000.0,"5 bedroom apartment in Kataragama, with parking, near main road"
-107,Kataragama,Apartment,1,3180,0,18930000.0,"1 bedroom apartment in Kataragama, close to the beach, near school"
-108,Matara,Apartment,3,985,0,13890000.0,"3 bedroom apartment in Matara, with garden, with parking"
-109,Negombo,House,2,1481,23,41400000.0,"2 bedroom house in Negombo, with parking, quiet neighbourhood"
-110,Matara,Apartment,1,1492,0,14050000.0,"1 bedroom apartment in Matara, near main road, near hospital"
-111,Galle,Land,0,0,38,25700000.0,"38 perch land in Galle, quiet neighbourhood, near school"
-112,Kataragama,House,1,2861,37,29980000.0,"1 bedroom house in Kataragama, with garden, near main road"
-113,Kurunegala,House,4,3700,11,44230000.0,"4 bedroom house in Kurunegala, near school, with garden"
-114,Negombo,House,4,3686,25,73760000.0,"4 bedroom house in Negombo, near main road, newly renovated"
-115,Kurunegala,Apartment,1,3095,0,25680000.0,"1 bedroom apartment in Kurunegala, close to the beach, quiet neighbourhood"
-116,Kurunegala,House,1,1208,28,22180000.0,"1 bedroom house in Kurunegala, close to the beach, near hospital"
-117,Colombo,Apartment,4,3862,0,118950000.0,"4 bedroom apartment in Colombo, close to the beach, newly renovated"
-118,Kandy,Apartment,3,2397,0,46320000.0,"3 bedroom apartment in Kandy, near hospital, quiet neighbourhood"
-119,Kandy,House,1,2410,27,49020000.0,"1 bedroom house in Kandy, with parking, newly renovated"
-120,Colombo,Land,0,0,38,52720000.0,"38 perch land in Colombo, near school, close to the beach"
-121,Negombo,Apartment,2,3191,0,51120000.0,"2 bedroom apartment in Negombo, with garden, quiet neighbourhood"
-122,Matara,House,1,3835,18,47610000.0,"1 bedroom house in Matara, near hospital, near main road"
-123,Matara,House,5,2538,8,37260000.0,"5 bedroom house in Matara, close to the beach, near main road"
-124,Negombo,House,1,2635,37,58840000.0,"1 bedroom house in Negombo, close to the beach, with parking"
-125,Kataragama,House,3,3109,37,33440000.0,"3 bedroom house in Kataragama, newly renovated, near main road"
-126,Kurunegala,House,5,1392,25,25920000.0,"5 bedroom house in Kurunegala, near main road, near hospital"
-127,Colombo,Land,0,0,39,42780000.0,"39 perch land in Colombo, newly renovated, near main road"
-128,Kataragama,House,3,2689,5,22620000.0,"3 bedroom house in Kataragama, near school, near hospital"
-129,Kurunegala,House,2,724,26,18990000.0,"2 bedroom house in Kurunegala, newly renovated, quiet neighbourhood"
-130,Matara,Apartment,1,1621,0,16730000.0,"1 bedroom apartment in Matara, with garden, near school"
-131,Kurunegala,Apartment,3,3012,0,27300000.0,"3 bedroom apartment in Kurunegala, near school, near main road"
-132,Kurunegala,Land,0,0,28,11180000.0,"28 perch land in Kurunegala, with parking, near main road"
-133,Colombo,Apartment,1,2318,0,65270000.0,"1 bedroom apartment in Colombo, close to the beach, with garden"
-134,Kurunegala,House,5,1898,24,31900000.0,"5 bedroom house in Kurunegala, near main road, near school"
-135,Kataragama,House,3,2041,7,18110000.0,"3 bedroom house in Kataragama, near hospital, near main road"
-136,Galle,Land,0,0,5,3500000.0,"5 perch land in Galle, close to the beach, quiet neighbourhood"
-137,Kurunegala,Apartment,1,2405,0,23430000.0,"1 bedroom apartment in Kurunegala, newly renovated, near school"
-138,Colombo,Land,0,0,31,42650000.0,"31 perch land in Colombo, close to the beach, with parking"
-139,Galle,House,1,2387,10,45920000.0,"1 bedroom house in Galle, with parking, near main road"
-140,Negombo,Land,0,0,34,20990000.0,"34 perch land in Negombo, quiet neighbourhood, with parking"
-141,Jaffna,Apartment,4,2952,0,24980000.0,"4 bedroom apartment in Jaffna, with parking, near school"
-142,Kandy,House,1,3562,22,80020000.0,"1 bedroom house in Kandy, near school, newly renovated"
-143,Galle,Apartment,3,3868,0,63450000.0,"3 bedroom apartment in Galle, close to the beach, newly renovated"
-144,Negombo,Apartment,3,2635,0,36310000.0,"3 bedroom apartment in Negombo, close to the beach, near main road"
-145,Jaffna,House,1,1768,20,20370000.0,"1 bedroom house in Jaffna, newly renovated, quiet neighbourhood"
-146,Kataragama,House,2,2053,5,17950000.0,"2 bedroom house in Kataragama, close to the beach, near main road"
-147,Colombo,Land,0,0,24,33720000.0,"24 perch land in Colombo, quiet neighbourhood, close to the beach"
-148,Kandy,House,4,3775,32,91810000.0,"4 bedroom house in Kandy, with garden, quiet neighbourhood"
-149,Kataragama,House,5,3465,37,37030000.0,"5 bedroom house in Kataragama, newly renovated, near school"
-150,Colombo,House,5,3488,16,129670000.0,"5 bedroom house in Colombo, near school, close to the beach"
-151,Kataragama,House,1,1648,35,22760000.0,"1 bedroom house in Kataragama, near school, near main road"
-152,Galle,Land,0,0,35,23150000.0,"35 perch land in Galle, quiet neighbourhood, newly renovated"
-153,Jaffna,Apartment,1,3498,0,26060000.0,"1 bedroom apartment in Jaffna, near hospital, close to the beach"
-154,Galle,House,3,2405,18,50330000.0,"3 bedroom house in Galle, near hospital, quiet neighbourhood"
-155,Negombo,Land,0,0,34,21710000.0,"34 perch land in Negombo, quiet neighbourhood, with garden"
-156,Matara,Land,0,0,24,12390000.0,"24 perch land in Matara, close to the beach, near main road"
-157,Kandy,House,5,2049,7,57840000.0,"5 bedroom house in Kandy, newly renovated, with parking"
-158,Kurunegala,Land,0,0,14,5400000.0,"14 perch land in Kurunegala, with parking, near main road"
-159,Kurunegala,House,5,3345,28,49970000.0,"5 bedroom house in Kurunegala, quiet neighbourhood, near main road"
-160,Kataragama,Land,0,0,10,2960000.0,"10 perch land in Kataragama, near hospital, with garden"
-161,Jaffna,Apartment,4,3332,0,29120000.0,"4 bedroom apartment in Jaffna, with garden, close to the beach"
-162,Matara,Apartment,4,1354,0,18750000.0,"4 bedroom apartment in Matara, with garden, near main road"
-163,Negombo,House,1,1909,10,36410000.0,"1 bedroom house in Negombo, quiet neighbourhood, near main road"
-164,Negombo,Land,0,0,22,16250000.0,"22 perch land in Negombo, near main road, near hospital"
-165,Negombo,House,3,3840,12,66350000.0,"3 bedroom house in Negombo, close to the beach, with parking"
-166,Kataragama,House,2,3733,23,35380000.0,"2 bedroom house in Kataragama, near main road, close to the beach"
-167,Galle,House,4,1606,13,30590000.0,"4 bedroom house in Galle, close to the beach, with garden"
-168,Kandy,Apartment,4,3451,0,68720000.0,"4 bedroom apartment in Kandy, quiet neighbourhood, near school"
-169,Galle,House,3,3776,7,62930000.0,"3 bedroom house in Galle, close to the beach, with parking"
-170,Colombo,Land,0,0,38,55720000.0,"38 perch land in Colombo, near hospital, near school"
-171,Colombo,Apartment,4,573,0,26960000.0,"4 bedroom apartment in Colombo, with parking, near hospital"
-172,Colombo,House,3,3107,34,131250000.0,"3 bedroom house in Colombo, close to the beach, with parking"
-173,Kataragama,House,2,3988,34,37950000.0,"2 bedroom house in Kataragama, close to the beach, near school"
-174,Matara,House,4,3176,11,42110000.0,"4 bedroom house in Matara, near school, quiet neighbourhood"
-175,Matara,Apartment,4,1316,0,18720000.0,"4 bedroom apartment in Matara, with parking, newly renovated"
-176,Negombo,Land,0,0,25,18340000.0,"25 perch land in Negombo, quiet neighbourhood, near school"
-177,Matara,House,1,868,38,24670000.0,"1 bedroom house in Matara, near hospital, with parking"
-178,Kandy,Land,0,0,35,28860000.0,"35 perch land in Kandy, newly renovated, close to the beach"
-179,Jaffna,House,5,2691,25,33200000.0,"5 bedroom house in Jaffna, quiet neighbourhood, with parking"
-180,Kurunegala,Land,0,0,18,7970000.0,"18 perch land in Kurunegala, near hospital, newly renovated"
-181,Jaffna,Land,0,0,9,2860000.0,"9 perch land in Jaffna, close to the beach, near school"
-182,Kandy,Apartment,1,1340,0,23450000.0,"1 bedroom apartment in Kandy, near hospital, quiet neighbourhood"
-183,Negombo,Apartment,1,2621,0,30000000.0,"1 bedroom apartment in Negombo, with garden, with parking"
-184,Matara,Land,0,0,33,17180000.0,"33 perch land in Matara, quiet neighbourhood, newly renovated"
-185,Negombo,House,2,2718,22,48560000.0,"2 bedroom house in Negombo, near school, with garden"
-186,Negombo,House,3,1512,21,40160000.0,"3 bedroom house in Negombo, near main road, near hospital"
-187,Kandy,House,3,1568,13,39670000.0,"3 bedroom house in Kandy, near main road, with garden"
-188,Negombo,Apartment,3,1402,0,26600000.0,"3 bedroom apartment in Negombo, near school, quiet neighbourhood"
-189,Kandy,Apartment,5,2116,0,41970000.0,"5 bedroom apartment in Kandy, with parking, newly renovated"
-190,Galle,Apartment,1,2550,0,34210000.0,"1 bedroom apartment in Galle, near main road, with garden"
-191,Matara,Land,0,0,30,14250000.0,"30 perch land in Matara, close to the beach, with garden"
-192,Matara,House,5,1934,26,42550000.0,"5 bedroom house in Matara, newly renovated, close to the beach"
-193,Kurunegala,Apartment,4,1502,0,19100000.0,"4 bedroom apartment in Kurunegala, with garden, near main road"
-194,Galle,House,2,1265,19,32470000.0,"2 bedroom house in Galle, near hospital, near main road"
-195,Jaffna,House,1,2801,37,33800000.0,"1 bedroom house in Jaffna, near school, near hospital"
-196,Colombo,Apartment,4,3356,0,91850000.0,"4 bedroom apartment in Colombo, close to the beach, near school"
-197,Galle,Land,0,0,9,6260000.0,"9 perch land in Galle, with parking, near hospital"
-198,Colombo,Apartment,1,3511,0,84540000.0,"1 bedroom apartment in Colombo, with parking, near main road"
-199,Galle,House,2,2498,9,46010000.0,"2 bedroom house in Galle, quiet neighbourhood, with garden"
-200,Jaffna,Apartment,5,1086,0,12750000.0,"5 bedroom apartment in Jaffna, with parking, quiet neighbourhood"
-201,Galle,House,2,1780,35,61040000.0,"2 bedroom house in Galle, near school, near main road"
-202,Jaffna,Land,0,0,32,10510000.0,"32 perch land in Jaffna, newly renovated, quiet neighbourhood"
-203,Negombo,Apartment,4,637,0,15670000.0,"4 bedroom apartment in Negombo, near main road, newly renovated"
-204,Matara,House,1,1676,34,39740000.0,"1 bedroom house in Matara, with parking, newly renovated"
-205,Negombo,House,5,2090,7,45940000.0,"5 bedroom house in Negombo, near school, near hospital"
-206,Galle,House,5,3291,14,59380000.0,"5 bedroom house in Galle, near school, near main road"
-207,Kataragama,Land,0,0,29,9300000.0,"29 perch land in Kataragama, near main road, near hospital"
-208,Jaffna,House,5,3437,15,34950000.0,"5 bedroom house in Jaffna, close to the beach, near main road"
-209,Galle,Apartment,2,1320,0,21900000.0,"2 bedroom apartment in Galle, near school, with parking"
-210,Kataragama,Apartment,2,984,0,7440000.0,"2 bedroom apartment in Kataragama, quiet neighbourhood, newly renovated"
-211,Galle,Apartment,2,2949,0,43100000.0,"2 bedroom apartment in Galle, near hospital, near school"
-212,Matara,House,3,3210,5,33330000.0,"3 bedroom house in Matara, close to the beach, near school"
-213,Kataragama,Land,0,0,37,11780000.0,"37 perch land in Kataragama, near school, near hospital"
-214,Negombo,House,4,904,23,36190000.0,"4 bedroom house in Negombo, with garden, quiet neighbourhood"
-215,Matara,Apartment,4,903,0,13960000.0,"4 bedroom apartment in Matara, with garden, near main road"
-216,Galle,Apartment,5,1865,0,29760000.0,"5 bedroom apartment in Galle, with garden, close to the beach"
-217,Colombo,Apartment,4,2077,0,76050000.0,"4 bedroom apartment in Colombo, near main road, quiet neighbourhood"
-218,Colombo,Land,0,0,29,40290000.0,"29 perch land in Colombo, with garden, newly renovated"
-219,Negombo,House,3,1502,25,40080000.0,"3 bedroom house in Negombo, with parking, near main road"
-220,Jaffna,Apartment,3,1174,0,11080000.0,"3 bedroom apartment in Jaffna, near hospital, near school"
-221,Kandy,House,1,3810,26,70590000.0,"1 bedroom house in Kandy, near hospital, near school"
-222,Negombo,House,4,1038,28,36820000.0,"4 bedroom house in Negombo, close to the beach, with parking"
-223,Matara,House,4,592,8,14450000.0,"4 bedroom house in Matara, quiet neighbourhood, newly renovated"
-224,Kandy,House,4,1979,18,57340000.0,"4 bedroom house in Kandy, near main road, near school"
-225,Matara,House,3,1903,32,36660000.0,"3 bedroom house in Matara, newly renovated, near school"
-226,Galle,House,4,2668,26,63880000.0,"4 bedroom house in Galle, close to the beach, near hospital"
-227,Kataragama,House,5,3572,9,28270000.0,"5 bedroom house in Kataragama, near hospital, near school"
-228,Kurunegala,Apartment,3,3765,0,38230000.0,"3 bedroom apartment in Kurunegala, near school, close to the beach"
-229,Kurunegala,Apartment,3,1513,0,17020000.0,"3 bedroom apartment in Kurunegala, with parking, newly renovated"
-230,Kandy,House,1,3932,21,83730000.0,"1 bedroom house in Kandy, near main road, near school"
-231,Negombo,House,4,2714,38,66520000.0,"4 bedroom house in Negombo, with parking, near school"
-232,Kataragama,House,5,743,23,14100000.0,"5 bedroom house in Kataragama, close to the beach, near hospital"
-233,Colombo,Apartment,4,3784,0,103680000.0,"4 bedroom apartment in Colombo, quiet neighbourhood, newly renovated"
-234,Kataragama,House,5,982,12,13560000.0,"5 bedroom house in Kataragama, near main road, close to the beach"
-235,Negombo,House,5,2560,20,51360000.0,"5 bedroom house in Negombo, quiet neighbourhood, with parking"
-236,Matara,House,4,3267,9,43460000.0,"4 bedroom house in Matara, quiet neighbourhood, close to the beach"
-237,Matara,House,3,1373,25,28810000.0,"3 bedroom house in Matara, near main road, with garden"
-238,Negombo,House,1,1447,11,34220000.0,"1 bedroom house in Negombo, close to the beach, near hospital"
-239,Galle,Apartment,1,2166,0,26730000.0,"1 bedroom apartment in Galle, quiet neighbourhood, near main road"
-240,Matara,Apartment,2,3596,0,38860000.0,"2 bedroom apartment in Matara, with parking, near school"
-241,Kandy,Apartment,3,1282,0,23410000.0,"3 bedroom apartment in Kandy, with parking, near hospital"
-242,Kurunegala,Apartment,4,2822,0,29010000.0,"4 bedroom apartment in Kurunegala, with parking, with garden"
-243,Colombo,Apartment,3,2084,0,67830000.0,"3 bedroom apartment in Colombo, near main road, near school"
-244,Matara,House,1,891,38,23570000.0,"1 bedroom house in Matara, near main road, quiet neighbourhood"
-245,Matara,Apartment,2,2988,0,32830000.0,"2 bedroom apartment in Matara, near main road, close to the beach"
-246,Colombo,Apartment,5,3413,0,126920000.0,"5 bedroom apartment in Colombo, with parking, near main road"
-247,Kataragama,House,5,2514,12,22950000.0,"5 bedroom house in Kataragama, near main road, with parking"
-248,Negombo,Apartment,2,1117,0,19070000.0,"2 bedroom apartment in Negombo, with garden, with parking"
-249,Kataragama,House,5,1045,19,18140000.0,"5 bedroom house in Kataragama, with garden, newly renovated"
-250,Colombo,Apartment,4,1982,0,67020000.0,"4 bedroom apartment in Colombo, near school, quiet neighbourhood"
-251,Kandy,Apartment,5,2272,0,42870000.0,"5 bedroom apartment in Kandy, close to the beach, with parking"
-252,Negombo,Land,0,0,7,3860000.0,"7 perch land in Negombo, quiet neighbourhood, with garden"
-253,Kandy,Land,0,0,25,20110000.0,"25 perch land in Kandy, near school, quiet neighbourhood"
-254,Galle,Apartment,2,2252,0,33690000.0,"2 bedroom apartment in Galle, near school, near main road"
-255,Matara,Apartment,4,1532,0,18790000.0,"4 bedroom apartment in Matara, close to the beach, with garden"
-256,Kandy,Apartment,2,2901,0,48960000.0,"2 bedroom apartment in Kandy, near school, near main road"
-257,Matara,House,2,3287,35,50050000.0,"2 bedroom house in Matara, near school, close to the beach"
-258,Colombo,Land,0,0,27,34910000.0,"27 perch land in Colombo, newly renovated, near main road"
-259,Kandy,House,3,504,17,28140000.0,"3 bedroom house in Kandy, near hospital, near main road"
-260,Kurunegala,House,3,3972,20,43170000.0,"3 bedroom house in Kurunegala, near school, near main road"
-261,Kataragama,House,2,583,9,8870000.0,"2 bedroom house in Kataragama, with garden, close to the beach"
-262,Kandy,Land,0,0,20,13590000.0,"20 perch land in Kandy, quiet neighbourhood, with garden"
-263,Galle,House,1,611,17,20380000.0,"1 bedroom house in Galle, near school, quiet neighbourhood"
-264,Jaffna,House,4,2307,6,26090000.0,"4 bedroom house in Jaffna, quiet neighbourhood, newly renovated"
-265,Jaffna,House,3,870,12,14680000.0,"3 bedroom house in Jaffna, with garden, with parking"
-266,Kurunegala,House,5,833,23,24030000.0,"5 bedroom house in Kurunegala, near hospital, quiet neighbourhood"
-267,Negombo,House,3,2891,17,51700000.0,"3 bedroom house in Negombo, with parking, near main road"
-268,Galle,Apartment,3,3047,0,44560000.0,"3 bedroom apartment in Galle, with garden, newly renovated"
-269,Kurunegala,House,1,913,21,18980000.0,"1 bedroom house in Kurunegala, near hospital, near main road"
-270,Kurunegala,Land,0,0,38,17150000.0,"38 perch land in Kurunegala, near main road, newly renovated"
-271,Galle,Land,0,0,28,18760000.0,"28 perch land in Galle, quiet neighbourhood, near hospital"
-272,Colombo,House,2,1614,6,58730000.0,"2 bedroom house in Colombo, quiet neighbourhood, with parking"
-273,Kandy,House,2,1539,12,36180000.0,"2 bedroom house in Kandy, with garden, newly renovated"
-274,Jaffna,Apartment,2,2114,0,15160000.0,"2 bedroom apartment in Jaffna, near main road, quiet neighbourhood"
-275,Negombo,House,4,1122,24,36950000.0,"4 bedroom house in Negombo, near main road, with garden"
-276,Negombo,House,1,1986,15,41570000.0,"1 bedroom house in Negombo, with garden, quiet neighbourhood"
-277,Negombo,Land,0,0,23,13830000.0,"23 perch land in Negombo, near hospital, close to the beach"
-278,Kataragama,Land,0,0,36,11170000.0,"36 perch land in Kataragama, close to the beach, near school"
-279,Colombo,Apartment,2,1790,0,51890000.0,"2 bedroom apartment in Colombo, near hospital, with parking"
-280,Colombo,House,4,2852,6,100390000.0,"4 bedroom house in Colombo, near school, with garden"
-281,Galle,Apartment,1,3170,0,43210000.0,"1 bedroom apartment in Galle, near hospital, with parking"
-282,Negombo,Apartment,2,1736,0,30230000.0,"2 bedroom apartment in Negombo, near school, close to the beach"
-283,Matara,House,1,1633,31,34160000.0,"1 bedroom house in Matara, close to the beach, near hospital"
-284,Negombo,Apartment,5,3256,0,47400000.0,"5 bedroom apartment in Negombo, near hospital, near school"
-285,Negombo,House,4,2884,36,74220000.0,"4 bedroom house in Negombo, with parking, near hospital"
-286,Jaffna,House,2,3412,9,27880000.0,"2 bedroom house in Jaffna, quiet neighbourhood, newly renovated"
-287,Kandy,Apartment,1,3671,0,55520000.0,"1 bedroom apartment in Kandy, near hospital, with parking"
-288,Kurunegala,House,1,3374,7,35590000.0,"1 bedroom house in Kurunegala, with parking, near school"
-289,Kurunegala,House,3,3777,5,38280000.0,"3 bedroom house in Kurunegala, near hospital, with garden"
-290,Negombo,Land,0,0,34,24590000.0,"34 perch land in Negombo, quiet neighbourhood, near hospital"
-291,Kataragama,Land,0,0,37,10930000.0,"37 perch land in Kataragama, close to the beach, near main road"
-292,Galle,Apartment,5,1625,0,29410000.0,"5 bedroom apartment in Galle, near school, with garden"
-293,Jaffna,Land,0,0,30,10230000.0,"30 perch land in Jaffna, close to the beach, newly renovated"
-294,Galle,Land,0,0,23,14820000.0,"23 perch land in Galle, quiet neighbourhood, with parking"
-295,Kurunegala,House,3,3000,7,36720000.0,"3 bedroom house in Kurunegala, close to the beach, near school"
-296,Kurunegala,House,2,3304,37,51240000.0,"2 bedroom house in Kurunegala, near main road, with parking"
-297,Kataragama,House,5,1085,35,25080000.0,"5 bedroom house in Kataragama, newly renovated, near hospital"
-298,Negombo,House,1,2219,24,56660000.0,"1 bedroom house in Negombo, newly renovated, close to the beach"
-299,Galle,Apartment,3,1276,0,20760000.0,"3 bedroom apartment in Galle, near hospital, with garden"
-300,Colombo,House,3,3625,18,133720000.0,"3 bedroom house in Colombo, near hospital, with parking"
-301,Galle,House,1,1435,32,38750000.0,"1 bedroom house in Galle, newly renovated, with parking"
-302,Kataragama,House,3,1003,20,14200000.0,"3 bedroom house in Kataragama, with parking, newly renovated"
-303,Colombo,House,3,2494,39,124200000.0,"3 bedroom house in Colombo, near school, near main road"
-304,Jaffna,Land,0,0,7,2310000.0,"7 perch land in Jaffna, quiet neighbourhood, close to the beach"
-305,Kurunegala,House,1,3705,11,36170000.0,"1 bedroom house in Kurunegala, near hospital, quiet neighbourhood"
-306,Kandy,House,1,836,38,43390000.0,"1 bedroom house in Kandy, near school, quiet neighbourhood"
-307,Galle,House,1,1640,15,30750000.0,"1 bedroom house in Galle, close to the beach, with garden"
-308,Kurunegala,House,3,1037,15,21010000.0,"3 bedroom house in Kurunegala, near hospital, close to the beach"
-309,Galle,Apartment,1,1577,0,21390000.0,"1 bedroom apartment in Galle, near main road, newly renovated"
-310,Colombo,House,5,2368,11,118540000.0,"5 bedroom house in Colombo, near main road, newly renovated"
-311,Matara,House,2,1482,22,27180000.0,"2 bedroom house in Matara, near hospital, quiet neighbourhood"
-312,Matara,House,4,736,15,20110000.0,"4 bedroom house in Matara, with parking, near school"
-313,Colombo,Land,0,0,11,13310000.0,"11 perch land in Colombo, newly renovated, near main road"
-314,Galle,Apartment,3,684,0,16630000.0,"3 bedroom apartment in Galle, close to the beach, near main road"
-315,Kandy,Apartment,5,1293,0,32670000.0,"5 bedroom apartment in Kandy, with garden, near hospital"
-316,Matara,Apartment,1,501,0,6430000.0,"1 bedroom apartment in Matara, close to the beach, with garden"
-317,Matara,Apartment,2,803,0,9450000.0,"2 bedroom apartment in Matara, close to the beach, with parking"
-318,Matara,House,2,2027,35,40710000.0,"2 bedroom house in Matara, close to the beach, quiet neighbourhood"
-319,Jaffna,House,1,3477,9,26610000.0,"1 bedroom house in Jaffna, near school, with parking"
-320,Kataragama,Apartment,2,3211,0,24470000.0,"2 bedroom apartment in Kataragama, near main road, near school"
-321,Galle,House,2,845,23,32510000.0,"2 bedroom house in Galle, near hospital, quiet neighbourhood"
-322,Colombo,Land,0,0,34,46250000.0,"34 perch land in Colombo, near hospital, with parking"
-323,Kurunegala,House,2,1683,9,17390000.0,"2 bedroom house in Kurunegala, newly renovated, near school"
-324,Jaffna,Apartment,5,2782,0,22880000.0,"5 bedroom apartment in Jaffna, newly renovated, close to the beach"
-325,Jaffna,Land,0,0,26,9870000.0,"26 perch land in Jaffna, quiet neighbourhood, with garden"
-326,Kandy,Apartment,5,3380,0,67920000.0,"5 bedroom apartment in Kandy, near school, close to the beach"
-327,Kandy,Land,0,0,17,14160000.0,"17 perch land in Kandy, with parking, close to the beach"
-328,Colombo,Apartment,5,1088,0,41340000.0,"5 bedroom apartment in Colombo, quiet neighbourhood, close to the beach"
-329,Kandy,Land,0,0,26,20370000.0,"26 perch land in Kandy, newly renovated, with garden"
-330,Kurunegala,House,5,1014,9,20730000.0,"5 bedroom house in Kurunegala, close to the beach, near hospital"
-331,Kurunegala,House,2,728,37,22210000.0,"2 bedroom house in Kurunegala, with garden, near school"
-332,Galle,Apartment,5,3512,0,56380000.0,"5 bedroom apartment in Galle, newly renovated, with parking"
-333,Galle,House,3,1439,15,35720000.0,"3 bedroom house in Galle, quiet neighbourhood, with parking"
-334,Kataragama,House,1,3380,24,28980000.0,"1 bedroom house in Kataragama, with parking, with garden"
-335,Negombo,Land,0,0,18,10350000.0,"18 perch land in Negombo, newly renovated, close to the beach"
-336,Kataragama,Apartment,1,2386,0,15460000.0,"1 bedroom apartment in Kataragama, with parking, near school"
-337,Jaffna,House,5,2091,38,32660000.0,"5 bedroom house in Jaffna, near hospital, close to the beach"
-338,Galle,House,2,3367,36,72490000.0,"2 bedroom house in Galle, near hospital, quiet neighbourhood"
-339,Kandy,House,2,652,12,22190000.0,"2 bedroom house in Kandy, near school, with parking"
-340,Jaffna,House,3,824,39,22040000.0,"3 bedroom house in Jaffna, near hospital, near school"
-341,Matara,Land,0,0,20,9870000.0,"20 perch land in Matara, with parking, near main road"
-342,Galle,House,1,1880,29,48410000.0,"1 bedroom house in Galle, near school, with garden"
-343,Kurunegala,House,5,2409,31,40620000.0,"5 bedroom house in Kurunegala, with parking, newly renovated"
-344,Kurunegala,Apartment,5,3082,0,32630000.0,"5 bedroom apartment in Kurunegala, near main road, with garden"
-345,Jaffna,House,4,2556,20,29660000.0,"4 bedroom house in Jaffna, near main road, newly renovated"
-346,Galle,House,4,1401,20,33530000.0,"4 bedroom house in Galle, near main road, with parking"
-347,Jaffna,Apartment,3,1645,0,15290000.0,"3 bedroom apartment in Jaffna, close to the beach, near main road"
-348,Jaffna,Apartment,3,3133,0,25440000.0,"3 bedroom apartment in Jaffna, with garden, close to the beach"
-349,Kandy,Land,0,0,14,10740000.0,"14 perch land in Kandy, near school, close to the beach"
-350,Kandy,Apartment,1,2264,0,39500000.0,"1 bedroom apartment in Kandy, near hospital, near main road"
-351,Kurunegala,House,1,2385,11,23300000.0,"1 bedroom house in Kurunegala, quiet neighbourhood, newly renovated"
-352,Colombo,Apartment,2,3125,0,77110000.0,"2 bedroom apartment in Colombo, newly renovated, close to the beach"
-353,Galle,Land,0,0,8,5520000.0,"8 perch land in Galle, near school, quiet neighbourhood"
-354,Negombo,Apartment,1,2126,0,30480000.0,"1 bedroom apartment in Negombo, with parking, close to the beach"
-355,Jaffna,Land,0,0,30,10950000.0,"30 perch land in Jaffna, with parking, with garden"
-356,Jaffna,Apartment,5,1787,0,17010000.0,"5 bedroom apartment in Jaffna, close to the beach, near main road"
-357,Kandy,Land,0,0,24,19340000.0,"24 perch land in Kandy, newly renovated, near hospital"
-358,Jaffna,House,3,1267,32,25280000.0,"3 bedroom house in Jaffna, near school, quiet neighbourhood"
-359,Colombo,Apartment,3,2688,0,86600000.0,"3 bedroom apartment in Colombo, quiet neighbourhood, near main road"
-360,Matara,House,4,1229,20,26780000.0,"4 bedroom house in Matara, with garden, close to the beach"
-361,Kataragama,Apartment,4,2770,0,17300000.0,"4 bedroom apartment in Kataragama, quiet neighbourhood, with parking"
-362,Jaffna,Apartment,2,3130,0,25960000.0,"2 bedroom apartment in Jaffna, quiet neighbourhood, with parking"
-363,Kandy,Land,0,0,34,28550000.0,"34 perch land in Kandy, newly renovated, near main road"
-364,Jaffna,Land,0,0,26,9840000.0,"26 perch land in Jaffna, near main road, newly renovated"
-365,Colombo,House,5,3159,8,106060000.0,"5 bedroom house in Colombo, quiet neighbourhood, with garden"
-366,Kurunegala,Apartment,3,800,0,11380000.0,"3 bedroom apartment in Kurunegala, newly renovated, with parking"
-367,Negombo,Apartment,1,1680,0,26170000.0,"1 bedroom apartment in Negombo, near main road, close to the beach"
-368,Galle,House,4,1117,10,32650000.0,"4 bedroom house in Galle, close to the beach, newly renovated"
-369,Colombo,House,1,1067,35,74080000.0,"1 bedroom house in Colombo, near main road, with garden"
-370,Kataragama,House,4,1113,12,13900000.0,"4 bedroom house in Kataragama, with parking, quiet neighbourhood"
-371,Galle,Apartment,1,653,0,11250000.0,"1 bedroom apartment in Galle, near hospital, newly renovated"
-372,Matara,House,2,3380,39,55660000.0,"2 bedroom house in Matara, newly renovated, near school"
-373,Negombo,Land,0,0,33,20280000.0,"33 perch land in Negombo, with garden, newly renovated"
-374,Galle,House,5,1894,12,44080000.0,"5 bedroom house in Galle, near main road, newly renovated"
-375,Jaffna,Land,0,0,18,6780000.0,"18 perch land in Jaffna, quiet neighbourhood, near school"
-376,Colombo,House,1,3966,23,142730000.0,"1 bedroom house in Colombo, near school, quiet neighbourhood"
-377,Matara,Apartment,2,3487,0,37810000.0,"2 bedroom apartment in Matara, close to the beach, near school"
-378,Matara,House,5,980,37,33900000.0,"5 bedroom house in Matara, near school, near hospital"
-379,Negombo,Apartment,4,3957,0,67790000.0,"4 bedroom apartment in Negombo, with parking, newly renovated"
-380,Galle,Land,0,0,39,24430000.0,"39 perch land in Galle, near hospital, near main road"
-381,Colombo,Land,0,0,6,7720000.0,"6 perch land in Colombo, newly renovated, with garden"
-382,Jaffna,Land,0,0,13,4680000.0,"13 perch land in Jaffna, newly renovated, with parking"
-383,Jaffna,House,1,3712,24,38880000.0,"1 bedroom house in Jaffna, near school, with parking"
-384,Kandy,House,5,1875,6,38270000.0,"5 bedroom house in Kandy, quiet neighbourhood, with parking"
-385,Colombo,House,4,1142,17,61040000.0,"4 bedroom house in Colombo, with parking, near main road"
-386,Colombo,House,1,3562,10,94810000.0,"1 bedroom house in Colombo, near hospital, near school"
-387,Colombo,Apartment,4,3835,0,118250000.0,"4 bedroom apartment in Colombo, near main road, near school"
-388,Kataragama,Apartment,3,3914,0,24750000.0,"3 bedroom apartment in Kataragama, with parking, quiet neighbourhood"
-389,Jaffna,Apartment,1,3844,0,27760000.0,"1 bedroom apartment in Jaffna, close to the beach, with garden"
-390,Kandy,Land,0,0,11,8860000.0,"11 perch land in Kandy, near school, quiet neighbourhood"
-391,Matara,Apartment,1,2090,0,20880000.0,"1 bedroom apartment in Matara, near hospital, with parking"
-392,Kandy,Land,0,0,24,18700000.0,"24 perch land in Kandy, with parking, close to the beach"
-393,Galle,House,5,2660,17,55030000.0,"5 bedroom house in Galle, with parking, near school"
-394,Kurunegala,House,4,1272,36,34190000.0,"4 bedroom house in Kurunegala, near main road, near hospital"
-395,Matara,Apartment,1,2156,0,23530000.0,"1 bedroom apartment in Matara, near school, quiet neighbourhood"
-396,Kataragama,Land,0,0,23,6840000.0,"23 perch land in Kataragama, near main road, close to the beach"
-397,Colombo,House,3,3813,28,149510000.0,"3 bedroom house in Colombo, close to the beach, quiet neighbourhood"
-398,Kandy,Apartment,5,1511,0,36100000.0,"5 bedroom apartment in Kandy, near main road, with parking"
-399,Galle,Apartment,4,1381,0,26660000.0,"4 bedroom apartment in Galle, quiet neighbourhood, close to the beach"
-400,Galle,House,2,3071,12,47220000.0,"2 bedroom house in Galle, quiet neighbourhood, near hospital"
-401,Jaffna,House,3,522,22,15320000.0,"3 bedroom house in Jaffna, with garden, near school"
-402,Kataragama,Land,0,0,33,9490000.0,"33 perch land in Kataragama, with parking, newly renovated"
-403,Galle,Apartment,4,3110,0,54740000.0,"4 bedroom apartment in Galle, close to the beach, near hospital"
-404,Jaffna,House,2,2428,26,31120000.0,"2 bedroom house in Jaffna, near main road, close to the beach"
-405,Negombo,Land,0,0,27,18650000.0,"27 perch land in Negombo, with parking, close to the beach"
-406,Kurunegala,House,2,3399,35,49350000.0,"2 bedroom house in Kurunegala, quiet neighbourhood, near main road"
-407,Negombo,Land,0,0,26,17260000.0,"26 perch land in Negombo, near main road, near school"
-408,Kandy,House,1,2986,38,80960000.0,"1 bedroom house in Kandy, near main road, quiet neighbourhood"
-409,Jaffna,Apartment,1,2124,0,15770000.0,"1 bedroom apartment in Jaffna, near main road, with parking"
-410,Colombo,House,5,593,17,58030000.0,"5 bedroom house in Colombo, near hospital, close to the beach"
-411,Kandy,House,1,2356,8,47290000.0,"1 bedroom house in Kandy, near main road, close to the beach"
-412,Kandy,Land,0,0,8,5840000.0,"8 perch land in Kandy, near main road, with parking"
-413,Galle,House,1,3758,21,63420000.0,"1 bedroom house in Galle, newly renovated, close to the beach"
-414,Kandy,House,4,2605,12,51730000.0,"4 bedroom house in Kandy, with garden, quiet neighbourhood"
-415,Colombo,House,2,1802,19,74560000.0,"2 bedroom house in Colombo, close to the beach, newly renovated"
-416,Matara,Apartment,3,2201,0,21980000.0,"3 bedroom apartment in Matara, near school, near main road"
-417,Jaffna,Land,0,0,26,9910000.0,"26 perch land in Jaffna, newly renovated, with garden"
-418,Colombo,Land,0,0,38,58720000.0,"38 perch land in Colombo, newly renovated, near school"
-419,Galle,House,3,1509,34,54280000.0,"3 bedroom house in Galle, near hospital, close to the beach"
-420,Kurunegala,House,3,1965,18,25560000.0,"3 bedroom house in Kurunegala, newly renovated, near hospital"
-421,Jaffna,House,2,1405,16,18830000.0,"2 bedroom house in Jaffna, quiet neighbourhood, with garden"
-422,Matara,Apartment,3,3152,0,39170000.0,"3 bedroom apartment in Matara, newly renovated, quiet neighbourhood"
-423,Kataragama,Land,0,0,9,2730000.0,"9 perch land in Kataragama, with parking, with garden"
-424,Kurunegala,Apartment,3,3393,0,34410000.0,"3 bedroom apartment in Kurunegala, with garden, near hospital"
-425,Negombo,Apartment,2,1719,0,22500000.0,"2 bedroom apartment in Negombo, near hospital, with parking"
-426,Kandy,House,1,2464,11,49180000.0,"1 bedroom house in Kandy, newly renovated, near main road"
-427,Kataragama,Land,0,0,26,7490000.0,"26 perch land in Kataragama, with garden, near main road"
-428,Kataragama,House,1,1848,16,17800000.0,"1 bedroom house in Kataragama, with parking, near main road"
-429,Colombo,House,1,3141,11,90360000.0,"1 bedroom house in Colombo, close to the beach, with parking"
-430,Matara,House,5,1447,27,35780000.0,"5 bedroom house in Matara, newly renovated, with garden"
-431,Colombo,House,1,962,11,48070000.0,"1 bedroom house in Colombo, close to the beach, near school"
-432,Matara,House,3,2326,28,38290000.0,"3 bedroom house in Matara, near main road, with garden"
-433,Kataragama,House,5,1068,10,12800000.0,"5 bedroom house in Kataragama, near hospital, near main road"
-434,Kandy,House,5,1601,20,41370000.0,"5 bedroom house in Kandy, quiet neighbourhood, close to the beach"
-435,Negombo,Apartment,1,2076,0,29190000.0,"1 bedroom apartment in Negombo, quiet neighbourhood, with garden"
-436,Colombo,House,1,2474,13,83860000.0,"1 bedroom house in Colombo, newly renovated, quiet neighbourhood"
-437,Kurunegala,House,2,2737,31,35900000.0,"2 bedroom house in Kurunegala, with garden, near hospital"
-438,Jaffna,Land,0,0,30,11190000.0,"30 perch land in Jaffna, close to the beach, near hospital"
-439,Colombo,Apartment,5,3455,0,107280000.0,"5 bedroom apartment in Colombo, with parking, quiet neighbourhood"
-440,Negombo,Apartment,2,731,0,12310000.0,"2 bedroom apartment in Negombo, close to the beach, with garden"
-441,Jaffna,House,1,1768,30,23400000.0,"1 bedroom house in Jaffna, with parking, quiet neighbourhood"
-442,Galle,Land,0,0,37,27120000.0,"37 perch land in Galle, newly renovated, with parking"
-443,Kandy,House,5,533,31,44100000.0,"5 bedroom house in Kandy, newly renovated, near hospital"
-444,Negombo,House,1,1242,11,25720000.0,"1 bedroom house in Negombo, quiet neighbourhood, near main road"
-445,Kurunegala,Land,0,0,33,15590000.0,"33 perch land in Kurunegala, close to the beach, quiet neighbourhood"
-446,Matara,Apartment,1,3630,0,33800000.0,"1 bedroom apartment in Matara, quiet neighbourhood, near main road"
-447,Galle,Apartment,1,3207,0,45210000.0,"1 bedroom apartment in Galle, newly renovated, near main road"
-448,Jaffna,Apartment,5,2762,0,24980000.0,"5 bedroom apartment in Jaffna, near school, quiet neighbourhood"
-449,Kurunegala,Apartment,1,3223,0,29070000.0,"1 bedroom apartment in Kurunegala, near hospital, with parking"
-450,Galle,House,2,1101,23,35170000.0,"2 bedroom house in Galle, near school, near hospital"
-451,Jaffna,House,5,3439,6,29740000.0,"5 bedroom house in Jaffna, newly renovated, with parking"
-452,Jaffna,House,4,3615,22,39330000.0,"4 bedroom house in Jaffna, near main road, near hospital"
-453,Negombo,House,1,832,37,39680000.0,"1 bedroom house in Negombo, near school, newly renovated"
-454,Colombo,Land,0,0,20,20700000.0,"20 perch land in Colombo, with garden, with parking"
-455,Kurunegala,House,5,3405,14,47030000.0,"5 bedroom house in Kurunegala, near main road, with garden"
-456,Kurunegala,Apartment,3,2166,0,17460000.0,"3 bedroom apartment in Kurunegala, with garden, newly renovated"
-457,Kandy,Apartment,3,3441,0,55870000.0,"3 bedroom apartment in Kandy, newly renovated, quiet neighbourhood"
-458,Matara,Apartment,3,3774,0,44710000.0,"3 bedroom apartment in Matara, quiet neighbourhood, with parking"
-459,Kataragama,House,4,2161,22,23300000.0,"4 bedroom house in Kataragama, close to the beach, near school"
-460,Colombo,House,1,708,21,45080000.0,"1 bedroom house in Colombo, with parking, quiet neighbourhood"
-461,Matara,Land,0,0,37,16710000.0,"37 perch land in Matara, with garden, close to the beach"
-462,Kandy,Apartment,5,1253,0,31780000.0,"5 bedroom apartment in Kandy, newly renovated, near hospital"
-463,Matara,Land,0,0,39,16340000.0,"39 perch land in Matara, with parking, quiet neighbourhood"
-464,Negombo,Land,0,0,7,5150000.0,"7 perch land in Negombo, with parking, close to the beach"
-465,Colombo,Apartment,5,2123,0,74990000.0,"5 bedroom apartment in Colombo, close to the beach, newly renovated"
-466,Jaffna,House,4,1184,25,19330000.0,"4 bedroom house in Jaffna, near main road, near hospital"
-467,Kandy,Apartment,2,1554,0,26560000.0,"2 bedroom apartment in Kandy, near hospital, quiet neighbourhood"
-468,Kurunegala,House,3,2878,12,32060000.0,"3 bedroom house in Kurunegala, quiet neighbourhood, newly renovated"
-469,Kandy,Apartment,5,594,0,20620000.0,"5 bedroom apartment in Kandy, with garden, near main road"
-470,Jaffna,Land,0,0,27,10290000.0,"27 perch land in Jaffna, with garden, newly renovated"
-471,Matara,Apartment,5,3623,0,36630000.0,"5 bedroom apartment in Matara, close to the beach, near hospital"
-472,Kataragama,House,5,847,6,11060000.0,"5 bedroom house in Kataragama, near main road, with garden"
-473,Negombo,House,4,1951,25,46930000.0,"4 bedroom house in Negombo, with garden, near hospital"
-474,Negombo,Land,0,0,39,29050000.0,"39 perch land in Negombo, close to the beach, with parking"
-475,Matara,House,3,866,5,13390000.0,"3 bedroom house in Matara, near main road, newly renovated"
-476,Kataragama,House,1,1979,21,22480000.0,"1 bedroom house in Kataragama, quiet neighbourhood, with parking"
-477,Kataragama,House,5,2325,22,25710000.0,"5 bedroom house in Kataragama, near main road, newly renovated"
-478,Colombo,House,2,1116,36,77940000.0,"2 bedroom house in Colombo, quiet neighbourhood, close to the beach"
-479,Matara,House,1,772,14,15030000.0,"1 bedroom house in Matara, with garden, near main road"
-480,Colombo,Apartment,4,971,0,38010000.0,"4 bedroom apartment in Colombo, quiet neighbourhood, near main road"
-481,Galle,House,4,2780,30,58350000.0,"4 bedroom house in Galle, with garden, near hospital"
-482,Kataragama,House,4,3510,7,27890000.0,"4 bedroom house in Kataragama, near main road, near hospital"
-483,Galle,House,1,1131,33,35480000.0,"1 bedroom house in Galle, with garden, quiet neighbourhood"
-484,Kataragama,House,4,1621,33,19790000.0,"4 bedroom house in Kataragama, close to the beach, with parking"
-485,Negombo,House,4,1703,30,48910000.0,"4 bedroom house in Negombo, near main road, newly renovated"
-486,Kandy,Apartment,4,1762,0,30050000.0,"4 bedroom apartment in Kandy, near school, quiet neighbourhood"
-487,Galle,House,5,1355,31,45320000.0,"5 bedroom house in Galle, quiet neighbourhood, near main road"
-488,Kurunegala,House,2,693,32,21360000.0,"2 bedroom house in Kurunegala, with parking, quiet neighbourhood"
-489,Kataragama,House,2,2338,36,25820000.0,"2 bedroom house in Kataragama, newly renovated, near school"
-490,Kurunegala,House,5,1750,19,35150000.0,"5 bedroom house in Kurunegala, newly renovated, near school"
-491,Jaffna,House,3,1697,20,22400000.0,"3 bedroom house in Jaffna, near school, with parking"
-492,Kataragama,House,3,1426,27,20400000.0,"3 bedroom house in Kataragama, newly renovated, near hospital"
-493,Kataragama,Land,0,0,11,2970000.0,"11 perch land in Kataragama, with garden, with parking"
-494,Kurunegala,House,4,2636,34,41530000.0,"4 bedroom house in Kurunegala, near main road, quiet neighbourhood"
-495,Galle,Apartment,4,1965,0,34310000.0,"4 bedroom apartment in Galle, with garden, close to the beach"
-496,Negombo,House,1,1218,27,33480000.0,"1 bedroom house in Negombo, with parking, with garden"
-497,Colombo,House,3,3303,15,128970000.0,"3 bedroom house in Colombo, with parking, near school"
-498,Galle,House,5,3609,17,62540000.0,"5 bedroom house in Galle, with garden, near school"
-499,Jaffna,Apartment,2,613,0,6190000.0,"2 bedroom apartment in Jaffna, with parking, quiet neighbourhood"
-500,Negombo,Land,0,0,28,18010000.0,"28 perch land in Negombo, near school, newly renovated"
+id,town,type,bedrooms,area_sqft,perches,price_lkr,description,agent_id
+1,Colombo,Apartment,3,3573,0,115530000.0,"3 bedroom apartment in Colombo, near main road, close to the beach",1
+2,Kataragama,Land,0,0,8,2370000.0,"8 perch land in Kataragama, near main road, quiet neighbourhood",13
+3,Matara,House,2,1891,31,34200000.0,"2 bedroom house in Matara, close to the beach, with garden",12
+4,Negombo,House,2,2103,8,38770000.0,"2 bedroom house in Negombo, with garden, newly renovated",9
+5,Negombo,House,3,3292,6,58150000.0,"3 bedroom house in Negombo, near main road, quiet neighbourhood",9
+6,Kataragama,Apartment,2,951,0,7700000.0,"2 bedroom apartment in Kataragama, with garden, near school",13
+7,Colombo,Land,0,0,21,25430000.0,"21 perch land in Colombo, newly renovated, quiet neighbourhood",2
+8,Matara,House,3,1033,26,24110000.0,"3 bedroom house in Matara, near main road, quiet neighbourhood",12
+9,Kandy,House,5,3256,19,66040000.0,"5 bedroom house in Kandy, near main road, near school",4
+10,Colombo,Apartment,4,2712,0,75230000.0,"4 bedroom apartment in Colombo, near main road, newly renovated",3
+11,Kurunegala,House,2,2238,11,27730000.0,"2 bedroom house in Kurunegala, near main road, near hospital",11
+12,Jaffna,Land,0,0,34,13340000.0,"34 perch land in Jaffna, quiet neighbourhood, near school",10
+13,Matara,House,4,1036,38,34310000.0,"4 bedroom house in Matara, with garden, quiet neighbourhood",12
+14,Kataragama,House,2,3726,31,28600000.0,"2 bedroom house in Kataragama, near main road, quiet neighbourhood",13
+15,Matara,Land,0,0,8,3900000.0,"8 perch land in Matara, with parking, near hospital",12
+16,Kataragama,House,5,1617,33,24460000.0,"5 bedroom house in Kataragama, near main road, with parking",13
+17,Kurunegala,House,3,1948,29,39910000.0,"3 bedroom house in Kurunegala, newly renovated, with garden",11
+18,Kandy,House,1,3041,23,58450000.0,"1 bedroom house in Kandy, near school, near hospital",4
+19,Kataragama,House,3,3018,10,23910000.0,"3 bedroom house in Kataragama, near hospital, near main road",13
+20,Negombo,House,3,2113,39,68470000.0,"3 bedroom house in Negombo, near hospital, near main road",9
+21,Kurunegala,House,5,1560,20,30090000.0,"5 bedroom house in Kurunegala, near school, with parking",11
+22,Galle,House,4,2809,6,51390000.0,"4 bedroom house in Galle, near main road, with parking",6
+23,Kandy,House,1,2803,12,54600000.0,"1 bedroom house in Kandy, newly renovated, with parking",4
+24,Jaffna,Apartment,1,2598,0,20180000.0,"1 bedroom apartment in Jaffna, close to the beach, near hospital",10
+25,Kataragama,Apartment,4,754,0,8610000.0,"4 bedroom apartment in Kataragama, near hospital, with parking",13
+26,Matara,House,1,2154,16,28590000.0,"1 bedroom house in Matara, newly renovated, near main road",12
+27,Negombo,House,2,2648,21,57280000.0,"2 bedroom house in Negombo, with parking, close to the beach",9
+28,Kataragama,Apartment,1,3825,0,22200000.0,"1 bedroom apartment in Kataragama, near main road, near school",13
+29,Kurunegala,Land,0,0,8,3690000.0,"8 perch land in Kurunegala, with parking, newly renovated",11
+30,Negombo,Land,0,0,25,17120000.0,"25 perch land in Negombo, with parking, with garden",9
+31,Negombo,House,1,2445,37,56840000.0,"1 bedroom house in Negombo, close to the beach, near school",9
+32,Kandy,House,1,1120,33,44340000.0,"1 bedroom house in Kandy, close to the beach, near school",5
+33,Colombo,House,5,817,37,85530000.0,"5 bedroom house in Colombo, near school, with parking",3
+34,Kurunegala,House,1,2873,10,28850000.0,"1 bedroom house in Kurunegala, near school, near main road",11
+35,Jaffna,Apartment,5,3951,0,32310000.0,"5 bedroom apartment in Jaffna, close to the beach, with garden",10
+36,Colombo,House,1,3461,39,136480000.0,"1 bedroom house in Colombo, near school, quiet neighbourhood",3
+37,Kataragama,House,1,2542,16,22460000.0,"1 bedroom house in Kataragama, with garden, near school",13
+38,Kataragama,House,1,640,22,10720000.0,"1 bedroom house in Kataragama, close to the beach, with parking",13
+39,Galle,Apartment,4,3957,0,64070000.0,"4 bedroom apartment in Galle, newly renovated, near hospital",7
+40,Matara,House,4,2073,22,33220000.0,"4 bedroom house in Matara, newly renovated, near school",12
+41,Kandy,Land,0,0,15,10960000.0,"15 perch land in Kandy, near school, close to the beach",4
+42,Kataragama,House,2,3623,38,34650000.0,"2 bedroom house in Kataragama, quiet neighbourhood, close to the beach",13
+43,Matara,Land,0,0,38,20800000.0,"38 perch land in Matara, with parking, near main road",12
+44,Galle,House,3,3123,18,61290000.0,"3 bedroom house in Galle, quiet neighbourhood, near hospital",7
+45,Colombo,Land,0,0,33,43800000.0,"33 perch land in Colombo, quiet neighbourhood, with garden",2
+46,Jaffna,Land,0,0,18,6740000.0,"18 perch land in Jaffna, with garden, quiet neighbourhood",10
+47,Negombo,Land,0,0,32,17960000.0,"32 perch land in Negombo, quiet neighbourhood, with parking",9
+48,Jaffna,Land,0,0,25,8970000.0,"25 perch land in Jaffna, quiet neighbourhood, close to the beach",10
+49,Matara,Apartment,3,3128,0,40510000.0,"3 bedroom apartment in Matara, with garden, close to the beach",12
+50,Kataragama,Apartment,1,2809,0,18730000.0,"1 bedroom apartment in Kataragama, with garden, near main road",13
+51,Kataragama,Apartment,2,1103,0,8680000.0,"2 bedroom apartment in Kataragama, near main road, quiet neighbourhood",13
+52,Kandy,House,5,1558,16,48310000.0,"5 bedroom house in Kandy, with garden, near hospital",4
+53,Galle,Apartment,3,1764,0,31310000.0,"3 bedroom apartment in Galle, quiet neighbourhood, with garden",6
+54,Negombo,Apartment,4,3816,0,49330000.0,"4 bedroom apartment in Negombo, near main road, newly renovated",9
+55,Negombo,Land,0,0,39,22780000.0,"39 perch land in Negombo, near main road, quiet neighbourhood",9
+56,Colombo,House,1,1782,8,63570000.0,"1 bedroom house in Colombo, near main road, close to the beach",2
+57,Kurunegala,House,5,3071,32,45290000.0,"5 bedroom house in Kurunegala, quiet neighbourhood, close to the beach",11
+58,Kandy,Apartment,4,3084,0,61150000.0,"4 bedroom apartment in Kandy, near main road, near school",4
+59,Matara,House,5,1879,6,27460000.0,"5 bedroom house in Matara, newly renovated, near school",12
+60,Matara,House,5,1910,25,32020000.0,"5 bedroom house in Matara, with garden, near school",12
+61,Jaffna,House,2,3630,25,33300000.0,"2 bedroom house in Jaffna, quiet neighbourhood, near main road",10
+62,Matara,House,2,2466,17,27670000.0,"2 bedroom house in Matara, newly renovated, near school",12
+63,Galle,House,2,1023,28,35630000.0,"2 bedroom house in Galle, quiet neighbourhood, near school",7
+64,Jaffna,House,5,3019,19,32870000.0,"5 bedroom house in Jaffna, with garden, near hospital",10
+65,Negombo,House,3,2563,20,51680000.0,"3 bedroom house in Negombo, with garden, near main road",9
+66,Galle,House,3,2281,20,53980000.0,"3 bedroom house in Galle, near hospital, close to the beach",6
+67,Jaffna,House,5,3037,33,42240000.0,"5 bedroom house in Jaffna, newly renovated, with garden",10
+68,Galle,Apartment,4,3674,0,56020000.0,"4 bedroom apartment in Galle, newly renovated, quiet neighbourhood",6
+69,Colombo,House,5,1656,18,72150000.0,"5 bedroom house in Colombo, close to the beach, newly renovated",1
+70,Negombo,Land,0,0,37,26210000.0,"37 perch land in Negombo, newly renovated, near main road",8
+71,Kataragama,Land,0,0,33,10860000.0,"33 perch land in Kataragama, near school, newly renovated",13
+72,Kandy,House,2,2764,37,76520000.0,"2 bedroom house in Kandy, with parking, quiet neighbourhood",5
+73,Negombo,House,4,1909,30,57400000.0,"4 bedroom house in Negombo, newly renovated, quiet neighbourhood",9
+74,Kandy,Apartment,5,1698,0,32810000.0,"5 bedroom apartment in Kandy, near school, close to the beach",4
+75,Matara,Land,0,0,32,18390000.0,"32 perch land in Matara, near main road, newly renovated",12
+76,Negombo,Apartment,2,1928,0,27350000.0,"2 bedroom apartment in Negombo, close to the beach, near school",9
+77,Galle,Land,0,0,14,10020000.0,"14 perch land in Galle, with garden, near hospital",7
+78,Kandy,Apartment,4,2040,0,34060000.0,"4 bedroom apartment in Kandy, with parking, with garden",4
+79,Kurunegala,Apartment,1,1404,0,12810000.0,"1 bedroom apartment in Kurunegala, close to the beach, near main road",11
+80,Matara,House,4,940,24,29680000.0,"4 bedroom house in Matara, close to the beach, with garden",12
+81,Jaffna,Apartment,2,3395,0,25810000.0,"2 bedroom apartment in Jaffna, near main road, quiet neighbourhood",10
+82,Negombo,House,2,821,21,30800000.0,"2 bedroom house in Negombo, close to the beach, near main road",9
+83,Kandy,Apartment,3,1637,0,31760000.0,"3 bedroom apartment in Kandy, near main road, near school",4
+84,Kataragama,Land,0,0,28,8750000.0,"28 perch land in Kataragama, with garden, near school",13
+85,Matara,House,4,959,17,25720000.0,"4 bedroom house in Matara, near main road, with parking",12
+86,Matara,Apartment,2,2794,0,29730000.0,"2 bedroom apartment in Matara, with parking, near main road",12
+87,Colombo,House,5,3065,17,106080000.0,"5 bedroom house in Colombo, near school, newly renovated",3
+88,Galle,Apartment,1,2820,0,37310000.0,"1 bedroom apartment in Galle, close to the beach, quiet neighbourhood",7
+89,Kataragama,House,5,1567,38,27190000.0,"5 bedroom house in Kataragama, with parking, near school",13
+90,Kataragama,Land,0,0,17,5520000.0,"17 perch land in Kataragama, near hospital, close to the beach",13
+91,Negombo,House,4,3605,7,53000000.0,"4 bedroom house in Negombo, close to the beach, quiet neighbourhood",8
+92,Kataragama,Land,0,0,18,5340000.0,"18 perch land in Kataragama, quiet neighbourhood, near school",13
+93,Kataragama,Land,0,0,23,6910000.0,"23 perch land in Kataragama, newly renovated, with parking",13
+94,Negombo,Apartment,1,1192,0,17370000.0,"1 bedroom apartment in Negombo, near main road, near school",8
+95,Jaffna,Apartment,4,1068,0,10260000.0,"4 bedroom apartment in Jaffna, quiet neighbourhood, near school",10
+96,Galle,Apartment,1,3223,0,43030000.0,"1 bedroom apartment in Galle, with parking, quiet neighbourhood",7
+97,Kandy,Land,0,0,22,15850000.0,"22 perch land in Kandy, close to the beach, near school",4
+98,Matara,House,4,3512,30,58290000.0,"4 bedroom house in Matara, with garden, newly renovated",12
+99,Matara,Apartment,5,3129,0,40010000.0,"5 bedroom apartment in Matara, newly renovated, with parking",12
+100,Kandy,House,4,1363,18,42280000.0,"4 bedroom house in Kandy, near hospital, with parking",5
+101,Kataragama,Apartment,2,3696,0,24180000.0,"2 bedroom apartment in Kataragama, with parking, quiet neighbourhood",13
+102,Kandy,House,4,2837,12,61430000.0,"4 bedroom house in Kandy, with parking, near school",5
+103,Kataragama,Apartment,5,1102,0,10410000.0,"5 bedroom apartment in Kataragama, with parking, quiet neighbourhood",13
+104,Colombo,Apartment,2,952,0,29890000.0,"2 bedroom apartment in Colombo, near hospital, near school",3
+105,Kataragama,House,1,3549,31,30480000.0,"1 bedroom house in Kataragama, quiet neighbourhood, near main road",13
+106,Kataragama,Apartment,5,1463,0,12740000.0,"5 bedroom apartment in Kataragama, with parking, near main road",13
+107,Kataragama,Apartment,1,3180,0,18930000.0,"1 bedroom apartment in Kataragama, close to the beach, near school",13
+108,Matara,Apartment,3,985,0,13890000.0,"3 bedroom apartment in Matara, with garden, with parking",12
+109,Negombo,House,2,1481,23,41400000.0,"2 bedroom house in Negombo, with parking, quiet neighbourhood",9
+110,Matara,Apartment,1,1492,0,14050000.0,"1 bedroom apartment in Matara, near main road, near hospital",12
+111,Galle,Land,0,0,38,25700000.0,"38 perch land in Galle, quiet neighbourhood, near school",6
+112,Kataragama,House,1,2861,37,29980000.0,"1 bedroom house in Kataragama, with garden, near main road",13
+113,Kurunegala,House,4,3700,11,44230000.0,"4 bedroom house in Kurunegala, near school, with garden",11
+114,Negombo,House,4,3686,25,73760000.0,"4 bedroom house in Negombo, near main road, newly renovated",8
+115,Kurunegala,Apartment,1,3095,0,25680000.0,"1 bedroom apartment in Kurunegala, close to the beach, quiet neighbourhood",11
+116,Kurunegala,House,1,1208,28,22180000.0,"1 bedroom house in Kurunegala, close to the beach, near hospital",11
+117,Colombo,Apartment,4,3862,0,118950000.0,"4 bedroom apartment in Colombo, close to the beach, newly renovated",2
+118,Kandy,Apartment,3,2397,0,46320000.0,"3 bedroom apartment in Kandy, near hospital, quiet neighbourhood",4
+119,Kandy,House,1,2410,27,49020000.0,"1 bedroom house in Kandy, with parking, newly renovated",4
+120,Colombo,Land,0,0,38,52720000.0,"38 perch land in Colombo, near school, close to the beach",2
+121,Negombo,Apartment,2,3191,0,51120000.0,"2 bedroom apartment in Negombo, with garden, quiet neighbourhood",8
+122,Matara,House,1,3835,18,47610000.0,"1 bedroom house in Matara, near hospital, near main road",12
+123,Matara,House,5,2538,8,37260000.0,"5 bedroom house in Matara, close to the beach, near main road",12
+124,Negombo,House,1,2635,37,58840000.0,"1 bedroom house in Negombo, close to the beach, with parking",9
+125,Kataragama,House,3,3109,37,33440000.0,"3 bedroom house in Kataragama, newly renovated, near main road",13
+126,Kurunegala,House,5,1392,25,25920000.0,"5 bedroom house in Kurunegala, near main road, near hospital",11
+127,Colombo,Land,0,0,39,42780000.0,"39 perch land in Colombo, newly renovated, near main road",3
+128,Kataragama,House,3,2689,5,22620000.0,"3 bedroom house in Kataragama, near school, near hospital",13
+129,Kurunegala,House,2,724,26,18990000.0,"2 bedroom house in Kurunegala, newly renovated, quiet neighbourhood",11
+130,Matara,Apartment,1,1621,0,16730000.0,"1 bedroom apartment in Matara, with garden, near school",12
+131,Kurunegala,Apartment,3,3012,0,27300000.0,"3 bedroom apartment in Kurunegala, near school, near main road",11
+132,Kurunegala,Land,0,0,28,11180000.0,"28 perch land in Kurunegala, with parking, near main road",11
+133,Colombo,Apartment,1,2318,0,65270000.0,"1 bedroom apartment in Colombo, close to the beach, with garden",3
+134,Kurunegala,House,5,1898,24,31900000.0,"5 bedroom house in Kurunegala, near main road, near school",11
+135,Kataragama,House,3,2041,7,18110000.0,"3 bedroom house in Kataragama, near hospital, near main road",13
+136,Galle,Land,0,0,5,3500000.0,"5 perch land in Galle, close to the beach, quiet neighbourhood",7
+137,Kurunegala,Apartment,1,2405,0,23430000.0,"1 bedroom apartment in Kurunegala, newly renovated, near school",11
+138,Colombo,Land,0,0,31,42650000.0,"31 perch land in Colombo, close to the beach, with parking",2
+139,Galle,House,1,2387,10,45920000.0,"1 bedroom house in Galle, with parking, near main road",7
+140,Negombo,Land,0,0,34,20990000.0,"34 perch land in Negombo, quiet neighbourhood, with parking",8
+141,Jaffna,Apartment,4,2952,0,24980000.0,"4 bedroom apartment in Jaffna, with parking, near school",10
+142,Kandy,House,1,3562,22,80020000.0,"1 bedroom house in Kandy, near school, newly renovated",4
+143,Galle,Apartment,3,3868,0,63450000.0,"3 bedroom apartment in Galle, close to the beach, newly renovated",7
+144,Negombo,Apartment,3,2635,0,36310000.0,"3 bedroom apartment in Negombo, close to the beach, near main road",8
+145,Jaffna,House,1,1768,20,20370000.0,"1 bedroom house in Jaffna, newly renovated, quiet neighbourhood",10
+146,Kataragama,House,2,2053,5,17950000.0,"2 bedroom house in Kataragama, close to the beach, near main road",13
+147,Colombo,Land,0,0,24,33720000.0,"24 perch land in Colombo, quiet neighbourhood, close to the beach",1
+148,Kandy,House,4,3775,32,91810000.0,"4 bedroom house in Kandy, with garden, quiet neighbourhood",4
+149,Kataragama,House,5,3465,37,37030000.0,"5 bedroom house in Kataragama, newly renovated, near school",13
+150,Colombo,House,5,3488,16,129670000.0,"5 bedroom house in Colombo, near school, close to the beach",3
+151,Kataragama,House,1,1648,35,22760000.0,"1 bedroom house in Kataragama, near school, near main road",13
+152,Galle,Land,0,0,35,23150000.0,"35 perch land in Galle, quiet neighbourhood, newly renovated",6
+153,Jaffna,Apartment,1,3498,0,26060000.0,"1 bedroom apartment in Jaffna, near hospital, close to the beach",10
+154,Galle,House,3,2405,18,50330000.0,"3 bedroom house in Galle, near hospital, quiet neighbourhood",6
+155,Negombo,Land,0,0,34,21710000.0,"34 perch land in Negombo, quiet neighbourhood, with garden",8
+156,Matara,Land,0,0,24,12390000.0,"24 perch land in Matara, close to the beach, near main road",12
+157,Kandy,House,5,2049,7,57840000.0,"5 bedroom house in Kandy, newly renovated, with parking",5
+158,Kurunegala,Land,0,0,14,5400000.0,"14 perch land in Kurunegala, with parking, near main road",11
+159,Kurunegala,House,5,3345,28,49970000.0,"5 bedroom house in Kurunegala, quiet neighbourhood, near main road",11
+160,Kataragama,Land,0,0,10,2960000.0,"10 perch land in Kataragama, near hospital, with garden",13
+161,Jaffna,Apartment,4,3332,0,29120000.0,"4 bedroom apartment in Jaffna, with garden, close to the beach",10
+162,Matara,Apartment,4,1354,0,18750000.0,"4 bedroom apartment in Matara, with garden, near main road",12
+163,Negombo,House,1,1909,10,36410000.0,"1 bedroom house in Negombo, quiet neighbourhood, near main road",8
+164,Negombo,Land,0,0,22,16250000.0,"22 perch land in Negombo, near main road, near hospital",8
+165,Negombo,House,3,3840,12,66350000.0,"3 bedroom house in Negombo, close to the beach, with parking",8
+166,Kataragama,House,2,3733,23,35380000.0,"2 bedroom house in Kataragama, near main road, close to the beach",13
+167,Galle,House,4,1606,13,30590000.0,"4 bedroom house in Galle, close to the beach, with garden",7
+168,Kandy,Apartment,4,3451,0,68720000.0,"4 bedroom apartment in Kandy, quiet neighbourhood, near school",5
+169,Galle,House,3,3776,7,62930000.0,"3 bedroom house in Galle, close to the beach, with parking",7
+170,Colombo,Land,0,0,38,55720000.0,"38 perch land in Colombo, near hospital, near school",2
+171,Colombo,Apartment,4,573,0,26960000.0,"4 bedroom apartment in Colombo, with parking, near hospital",1
+172,Colombo,House,3,3107,34,131250000.0,"3 bedroom house in Colombo, close to the beach, with parking",3
+173,Kataragama,House,2,3988,34,37950000.0,"2 bedroom house in Kataragama, close to the beach, near school",13
+174,Matara,House,4,3176,11,42110000.0,"4 bedroom house in Matara, near school, quiet neighbourhood",12
+175,Matara,Apartment,4,1316,0,18720000.0,"4 bedroom apartment in Matara, with parking, newly renovated",12
+176,Negombo,Land,0,0,25,18340000.0,"25 perch land in Negombo, quiet neighbourhood, near school",9
+177,Matara,House,1,868,38,24670000.0,"1 bedroom house in Matara, near hospital, with parking",12
+178,Kandy,Land,0,0,35,28860000.0,"35 perch land in Kandy, newly renovated, close to the beach",5
+179,Jaffna,House,5,2691,25,33200000.0,"5 bedroom house in Jaffna, quiet neighbourhood, with parking",10
+180,Kurunegala,Land,0,0,18,7970000.0,"18 perch land in Kurunegala, near hospital, newly renovated",11
+181,Jaffna,Land,0,0,9,2860000.0,"9 perch land in Jaffna, close to the beach, near school",10
+182,Kandy,Apartment,1,1340,0,23450000.0,"1 bedroom apartment in Kandy, near hospital, quiet neighbourhood",4
+183,Negombo,Apartment,1,2621,0,30000000.0,"1 bedroom apartment in Negombo, with garden, with parking",8
+184,Matara,Land,0,0,33,17180000.0,"33 perch land in Matara, quiet neighbourhood, newly renovated",12
+185,Negombo,House,2,2718,22,48560000.0,"2 bedroom house in Negombo, near school, with garden",9
+186,Negombo,House,3,1512,21,40160000.0,"3 bedroom house in Negombo, near main road, near hospital",9
+187,Kandy,House,3,1568,13,39670000.0,"3 bedroom house in Kandy, near main road, with garden",4
+188,Negombo,Apartment,3,1402,0,26600000.0,"3 bedroom apartment in Negombo, near school, quiet neighbourhood",9
+189,Kandy,Apartment,5,2116,0,41970000.0,"5 bedroom apartment in Kandy, with parking, newly renovated",5
+190,Galle,Apartment,1,2550,0,34210000.0,"1 bedroom apartment in Galle, near main road, with garden",6
+191,Matara,Land,0,0,30,14250000.0,"30 perch land in Matara, close to the beach, with garden",12
+192,Matara,House,5,1934,26,42550000.0,"5 bedroom house in Matara, newly renovated, close to the beach",12
+193,Kurunegala,Apartment,4,1502,0,19100000.0,"4 bedroom apartment in Kurunegala, with garden, near main road",11
+194,Galle,House,2,1265,19,32470000.0,"2 bedroom house in Galle, near hospital, near main road",7
+195,Jaffna,House,1,2801,37,33800000.0,"1 bedroom house in Jaffna, near school, near hospital",10
+196,Colombo,Apartment,4,3356,0,91850000.0,"4 bedroom apartment in Colombo, close to the beach, near school",1
+197,Galle,Land,0,0,9,6260000.0,"9 perch land in Galle, with parking, near hospital",6
+198,Colombo,Apartment,1,3511,0,84540000.0,"1 bedroom apartment in Colombo, with parking, near main road",3
+199,Galle,House,2,2498,9,46010000.0,"2 bedroom house in Galle, quiet neighbourhood, with garden",7
+200,Jaffna,Apartment,5,1086,0,12750000.0,"5 bedroom apartment in Jaffna, with parking, quiet neighbourhood",10
+201,Galle,House,2,1780,35,61040000.0,"2 bedroom house in Galle, near school, near main road",6
+202,Jaffna,Land,0,0,32,10510000.0,"32 perch land in Jaffna, newly renovated, quiet neighbourhood",10
+203,Negombo,Apartment,4,637,0,15670000.0,"4 bedroom apartment in Negombo, near main road, newly renovated",9
+204,Matara,House,1,1676,34,39740000.0,"1 bedroom house in Matara, with parking, newly renovated",12
+205,Negombo,House,5,2090,7,45940000.0,"5 bedroom house in Negombo, near school, near hospital",8
+206,Galle,House,5,3291,14,59380000.0,"5 bedroom house in Galle, near school, near main road",7
+207,Kataragama,Land,0,0,29,9300000.0,"29 perch land in Kataragama, near main road, near hospital",13
+208,Jaffna,House,5,3437,15,34950000.0,"5 bedroom house in Jaffna, close to the beach, near main road",10
+209,Galle,Apartment,2,1320,0,21900000.0,"2 bedroom apartment in Galle, near school, with parking",6
+210,Kataragama,Apartment,2,984,0,7440000.0,"2 bedroom apartment in Kataragama, quiet neighbourhood, newly renovated",13
+211,Galle,Apartment,2,2949,0,43100000.0,"2 bedroom apartment in Galle, near hospital, near school",7
+212,Matara,House,3,3210,5,33330000.0,"3 bedroom house in Matara, close to the beach, near school",12
+213,Kataragama,Land,0,0,37,11780000.0,"37 perch land in Kataragama, near school, near hospital",13
+214,Negombo,House,4,904,23,36190000.0,"4 bedroom house in Negombo, with garden, quiet neighbourhood",9
+215,Matara,Apartment,4,903,0,13960000.0,"4 bedroom apartment in Matara, with garden, near main road",12
+216,Galle,Apartment,5,1865,0,29760000.0,"5 bedroom apartment in Galle, with garden, close to the beach",7
+217,Colombo,Apartment,4,2077,0,76050000.0,"4 bedroom apartment in Colombo, near main road, quiet neighbourhood",2
+218,Colombo,Land,0,0,29,40290000.0,"29 perch land in Colombo, with garden, newly renovated",2
+219,Negombo,House,3,1502,25,40080000.0,"3 bedroom house in Negombo, with parking, near main road",9
+220,Jaffna,Apartment,3,1174,0,11080000.0,"3 bedroom apartment in Jaffna, near hospital, near school",10
+221,Kandy,House,1,3810,26,70590000.0,"1 bedroom house in Kandy, near hospital, near school",4
+222,Negombo,House,4,1038,28,36820000.0,"4 bedroom house in Negombo, close to the beach, with parking",9
+223,Matara,House,4,592,8,14450000.0,"4 bedroom house in Matara, quiet neighbourhood, newly renovated",12
+224,Kandy,House,4,1979,18,57340000.0,"4 bedroom house in Kandy, near main road, near school",5
+225,Matara,House,3,1903,32,36660000.0,"3 bedroom house in Matara, newly renovated, near school",12
+226,Galle,House,4,2668,26,63880000.0,"4 bedroom house in Galle, close to the beach, near hospital",6
+227,Kataragama,House,5,3572,9,28270000.0,"5 bedroom house in Kataragama, near hospital, near school",13
+228,Kurunegala,Apartment,3,3765,0,38230000.0,"3 bedroom apartment in Kurunegala, near school, close to the beach",11
+229,Kurunegala,Apartment,3,1513,0,17020000.0,"3 bedroom apartment in Kurunegala, with parking, newly renovated",11
+230,Kandy,House,1,3932,21,83730000.0,"1 bedroom house in Kandy, near main road, near school",5
+231,Negombo,House,4,2714,38,66520000.0,"4 bedroom house in Negombo, with parking, near school",9
+232,Kataragama,House,5,743,23,14100000.0,"5 bedroom house in Kataragama, close to the beach, near hospital",13
+233,Colombo,Apartment,4,3784,0,103680000.0,"4 bedroom apartment in Colombo, quiet neighbourhood, newly renovated",1
+234,Kataragama,House,5,982,12,13560000.0,"5 bedroom house in Kataragama, near main road, close to the beach",13
+235,Negombo,House,5,2560,20,51360000.0,"5 bedroom house in Negombo, quiet neighbourhood, with parking",8
+236,Matara,House,4,3267,9,43460000.0,"4 bedroom house in Matara, quiet neighbourhood, close to the beach",12
+237,Matara,House,3,1373,25,28810000.0,"3 bedroom house in Matara, near main road, with garden",12
+238,Negombo,House,1,1447,11,34220000.0,"1 bedroom house in Negombo, close to the beach, near hospital",8
+239,Galle,Apartment,1,2166,0,26730000.0,"1 bedroom apartment in Galle, quiet neighbourhood, near main road",6
+240,Matara,Apartment,2,3596,0,38860000.0,"2 bedroom apartment in Matara, with parking, near school",12
+241,Kandy,Apartment,3,1282,0,23410000.0,"3 bedroom apartment in Kandy, with parking, near hospital",4
+242,Kurunegala,Apartment,4,2822,0,29010000.0,"4 bedroom apartment in Kurunegala, with parking, with garden",11
+243,Colombo,Apartment,3,2084,0,67830000.0,"3 bedroom apartment in Colombo, near main road, near school",3
+244,Matara,House,1,891,38,23570000.0,"1 bedroom house in Matara, near main road, quiet neighbourhood",12
+245,Matara,Apartment,2,2988,0,32830000.0,"2 bedroom apartment in Matara, near main road, close to the beach",12
+246,Colombo,Apartment,5,3413,0,126920000.0,"5 bedroom apartment in Colombo, with parking, near main road",2
+247,Kataragama,House,5,2514,12,22950000.0,"5 bedroom house in Kataragama, near main road, with parking",13
+248,Negombo,Apartment,2,1117,0,19070000.0,"2 bedroom apartment in Negombo, with garden, with parking",8
+249,Kataragama,House,5,1045,19,18140000.0,"5 bedroom house in Kataragama, with garden, newly renovated",13
+250,Colombo,Apartment,4,1982,0,67020000.0,"4 bedroom apartment in Colombo, near school, quiet neighbourhood",3
+251,Kandy,Apartment,5,2272,0,42870000.0,"5 bedroom apartment in Kandy, close to the beach, with parking",5
+252,Negombo,Land,0,0,7,3860000.0,"7 perch land in Negombo, quiet neighbourhood, with garden",8
+253,Kandy,Land,0,0,25,20110000.0,"25 perch land in Kandy, near school, quiet neighbourhood",5
+254,Galle,Apartment,2,2252,0,33690000.0,"2 bedroom apartment in Galle, near school, near main road",7
+255,Matara,Apartment,4,1532,0,18790000.0,"4 bedroom apartment in Matara, close to the beach, with garden",12
+256,Kandy,Apartment,2,2901,0,48960000.0,"2 bedroom apartment in Kandy, near school, near main road",5
+257,Matara,House,2,3287,35,50050000.0,"2 bedroom house in Matara, near school, close to the beach",12
+258,Colombo,Land,0,0,27,34910000.0,"27 perch land in Colombo, newly renovated, near main road",2
+259,Kandy,House,3,504,17,28140000.0,"3 bedroom house in Kandy, near hospital, near main road",5
+260,Kurunegala,House,3,3972,20,43170000.0,"3 bedroom house in Kurunegala, near school, near main road",11
+261,Kataragama,House,2,583,9,8870000.0,"2 bedroom house in Kataragama, with garden, close to the beach",13
+262,Kandy,Land,0,0,20,13590000.0,"20 perch land in Kandy, quiet neighbourhood, with garden",4
+263,Galle,House,1,611,17,20380000.0,"1 bedroom house in Galle, near school, quiet neighbourhood",7
+264,Jaffna,House,4,2307,6,26090000.0,"4 bedroom house in Jaffna, quiet neighbourhood, newly renovated",10
+265,Jaffna,House,3,870,12,14680000.0,"3 bedroom house in Jaffna, with garden, with parking",10
+266,Kurunegala,House,5,833,23,24030000.0,"5 bedroom house in Kurunegala, near hospital, quiet neighbourhood",11
+267,Negombo,House,3,2891,17,51700000.0,"3 bedroom house in Negombo, with parking, near main road",9
+268,Galle,Apartment,3,3047,0,44560000.0,"3 bedroom apartment in Galle, with garden, newly renovated",6
+269,Kurunegala,House,1,913,21,18980000.0,"1 bedroom house in Kurunegala, near hospital, near main road",11
+270,Kurunegala,Land,0,0,38,17150000.0,"38 perch land in Kurunegala, near main road, newly renovated",11
+271,Galle,Land,0,0,28,18760000.0,"28 perch land in Galle, quiet neighbourhood, near hospital",7
+272,Colombo,House,2,1614,6,58730000.0,"2 bedroom house in Colombo, quiet neighbourhood, with parking",1
+273,Kandy,House,2,1539,12,36180000.0,"2 bedroom house in Kandy, with garden, newly renovated",4
+274,Jaffna,Apartment,2,2114,0,15160000.0,"2 bedroom apartment in Jaffna, near main road, quiet neighbourhood",10
+275,Negombo,House,4,1122,24,36950000.0,"4 bedroom house in Negombo, near main road, with garden",8
+276,Negombo,House,1,1986,15,41570000.0,"1 bedroom house in Negombo, with garden, quiet neighbourhood",9
+277,Negombo,Land,0,0,23,13830000.0,"23 perch land in Negombo, near hospital, close to the beach",8
+278,Kataragama,Land,0,0,36,11170000.0,"36 perch land in Kataragama, close to the beach, near school",13
+279,Colombo,Apartment,2,1790,0,51890000.0,"2 bedroom apartment in Colombo, near hospital, with parking",1
+280,Colombo,House,4,2852,6,100390000.0,"4 bedroom house in Colombo, near school, with garden",2
+281,Galle,Apartment,1,3170,0,43210000.0,"1 bedroom apartment in Galle, near hospital, with parking",7
+282,Negombo,Apartment,2,1736,0,30230000.0,"2 bedroom apartment in Negombo, near school, close to the beach",9
+283,Matara,House,1,1633,31,34160000.0,"1 bedroom house in Matara, close to the beach, near hospital",12
+284,Negombo,Apartment,5,3256,0,47400000.0,"5 bedroom apartment in Negombo, near hospital, near school",8
+285,Negombo,House,4,2884,36,74220000.0,"4 bedroom house in Negombo, with parking, near hospital",8
+286,Jaffna,House,2,3412,9,27880000.0,"2 bedroom house in Jaffna, quiet neighbourhood, newly renovated",10
+287,Kandy,Apartment,1,3671,0,55520000.0,"1 bedroom apartment in Kandy, near hospital, with parking",5
+288,Kurunegala,House,1,3374,7,35590000.0,"1 bedroom house in Kurunegala, with parking, near school",11
+289,Kurunegala,House,3,3777,5,38280000.0,"3 bedroom house in Kurunegala, near hospital, with garden",11
+290,Negombo,Land,0,0,34,24590000.0,"34 perch land in Negombo, quiet neighbourhood, near hospital",8
+291,Kataragama,Land,0,0,37,10930000.0,"37 perch land in Kataragama, close to the beach, near main road",13
+292,Galle,Apartment,5,1625,0,29410000.0,"5 bedroom apartment in Galle, near school, with garden",7
+293,Jaffna,Land,0,0,30,10230000.0,"30 perch land in Jaffna, close to the beach, newly renovated",10
+294,Galle,Land,0,0,23,14820000.0,"23 perch land in Galle, quiet neighbourhood, with parking",6
+295,Kurunegala,House,3,3000,7,36720000.0,"3 bedroom house in Kurunegala, close to the beach, near school",11
+296,Kurunegala,House,2,3304,37,51240000.0,"2 bedroom house in Kurunegala, near main road, with parking",11
+297,Kataragama,House,5,1085,35,25080000.0,"5 bedroom house in Kataragama, newly renovated, near hospital",13
+298,Negombo,House,1,2219,24,56660000.0,"1 bedroom house in Negombo, newly renovated, close to the beach",9
+299,Galle,Apartment,3,1276,0,20760000.0,"3 bedroom apartment in Galle, near hospital, with garden",6
+300,Colombo,House,3,3625,18,133720000.0,"3 bedroom house in Colombo, near hospital, with parking",2
+301,Galle,House,1,1435,32,38750000.0,"1 bedroom house in Galle, newly renovated, with parking",7
+302,Kataragama,House,3,1003,20,14200000.0,"3 bedroom house in Kataragama, with parking, newly renovated",13
+303,Colombo,House,3,2494,39,124200000.0,"3 bedroom house in Colombo, near school, near main road",1
+304,Jaffna,Land,0,0,7,2310000.0,"7 perch land in Jaffna, quiet neighbourhood, close to the beach",10
+305,Kurunegala,House,1,3705,11,36170000.0,"1 bedroom house in Kurunegala, near hospital, quiet neighbourhood",11
+306,Kandy,House,1,836,38,43390000.0,"1 bedroom house in Kandy, near school, quiet neighbourhood",5
+307,Galle,House,1,1640,15,30750000.0,"1 bedroom house in Galle, close to the beach, with garden",7
+308,Kurunegala,House,3,1037,15,21010000.0,"3 bedroom house in Kurunegala, near hospital, close to the beach",11
+309,Galle,Apartment,1,1577,0,21390000.0,"1 bedroom apartment in Galle, near main road, newly renovated",7
+310,Colombo,House,5,2368,11,118540000.0,"5 bedroom house in Colombo, near main road, newly renovated",3
+311,Matara,House,2,1482,22,27180000.0,"2 bedroom house in Matara, near hospital, quiet neighbourhood",12
+312,Matara,House,4,736,15,20110000.0,"4 bedroom house in Matara, with parking, near school",12
+313,Colombo,Land,0,0,11,13310000.0,"11 perch land in Colombo, newly renovated, near main road",2
+314,Galle,Apartment,3,684,0,16630000.0,"3 bedroom apartment in Galle, close to the beach, near main road",6
+315,Kandy,Apartment,5,1293,0,32670000.0,"5 bedroom apartment in Kandy, with garden, near hospital",4
+316,Matara,Apartment,1,501,0,6430000.0,"1 bedroom apartment in Matara, close to the beach, with garden",12
+317,Matara,Apartment,2,803,0,9450000.0,"2 bedroom apartment in Matara, close to the beach, with parking",12
+318,Matara,House,2,2027,35,40710000.0,"2 bedroom house in Matara, close to the beach, quiet neighbourhood",12
+319,Jaffna,House,1,3477,9,26610000.0,"1 bedroom house in Jaffna, near school, with parking",10
+320,Kataragama,Apartment,2,3211,0,24470000.0,"2 bedroom apartment in Kataragama, near main road, near school",13
+321,Galle,House,2,845,23,32510000.0,"2 bedroom house in Galle, near hospital, quiet neighbourhood",6
+322,Colombo,Land,0,0,34,46250000.0,"34 perch land in Colombo, near hospital, with parking",3
+323,Kurunegala,House,2,1683,9,17390000.0,"2 bedroom house in Kurunegala, newly renovated, near school",11
+324,Jaffna,Apartment,5,2782,0,22880000.0,"5 bedroom apartment in Jaffna, newly renovated, close to the beach",10
+325,Jaffna,Land,0,0,26,9870000.0,"26 perch land in Jaffna, quiet neighbourhood, with garden",10
+326,Kandy,Apartment,5,3380,0,67920000.0,"5 bedroom apartment in Kandy, near school, close to the beach",4
+327,Kandy,Land,0,0,17,14160000.0,"17 perch land in Kandy, with parking, close to the beach",4
+328,Colombo,Apartment,5,1088,0,41340000.0,"5 bedroom apartment in Colombo, quiet neighbourhood, close to the beach",2
+329,Kandy,Land,0,0,26,20370000.0,"26 perch land in Kandy, newly renovated, with garden",4
+330,Kurunegala,House,5,1014,9,20730000.0,"5 bedroom house in Kurunegala, close to the beach, near hospital",11
+331,Kurunegala,House,2,728,37,22210000.0,"2 bedroom house in Kurunegala, with garden, near school",11
+332,Galle,Apartment,5,3512,0,56380000.0,"5 bedroom apartment in Galle, newly renovated, with parking",6
+333,Galle,House,3,1439,15,35720000.0,"3 bedroom house in Galle, quiet neighbourhood, with parking",6
+334,Kataragama,House,1,3380,24,28980000.0,"1 bedroom house in Kataragama, with parking, with garden",13
+335,Negombo,Land,0,0,18,10350000.0,"18 perch land in Negombo, newly renovated, close to the beach",9
+336,Kataragama,Apartment,1,2386,0,15460000.0,"1 bedroom apartment in Kataragama, with parking, near school",13
+337,Jaffna,House,5,2091,38,32660000.0,"5 bedroom house in Jaffna, near hospital, close to the beach",10
+338,Galle,House,2,3367,36,72490000.0,"2 bedroom house in Galle, near hospital, quiet neighbourhood",7
+339,Kandy,House,2,652,12,22190000.0,"2 bedroom house in Kandy, near school, with parking",5
+340,Jaffna,House,3,824,39,22040000.0,"3 bedroom house in Jaffna, near hospital, near school",10
+341,Matara,Land,0,0,20,9870000.0,"20 perch land in Matara, with parking, near main road",12
+342,Galle,House,1,1880,29,48410000.0,"1 bedroom house in Galle, near school, with garden",6
+343,Kurunegala,House,5,2409,31,40620000.0,"5 bedroom house in Kurunegala, with parking, newly renovated",11
+344,Kurunegala,Apartment,5,3082,0,32630000.0,"5 bedroom apartment in Kurunegala, near main road, with garden",11
+345,Jaffna,House,4,2556,20,29660000.0,"4 bedroom house in Jaffna, near main road, newly renovated",10
+346,Galle,House,4,1401,20,33530000.0,"4 bedroom house in Galle, near main road, with parking",7
+347,Jaffna,Apartment,3,1645,0,15290000.0,"3 bedroom apartment in Jaffna, close to the beach, near main road",10
+348,Jaffna,Apartment,3,3133,0,25440000.0,"3 bedroom apartment in Jaffna, with garden, close to the beach",10
+349,Kandy,Land,0,0,14,10740000.0,"14 perch land in Kandy, near school, close to the beach",4
+350,Kandy,Apartment,1,2264,0,39500000.0,"1 bedroom apartment in Kandy, near hospital, near main road",5
+351,Kurunegala,House,1,2385,11,23300000.0,"1 bedroom house in Kurunegala, quiet neighbourhood, newly renovated",11
+352,Colombo,Apartment,2,3125,0,77110000.0,"2 bedroom apartment in Colombo, newly renovated, close to the beach",2
+353,Galle,Land,0,0,8,5520000.0,"8 perch land in Galle, near school, quiet neighbourhood",7
+354,Negombo,Apartment,1,2126,0,30480000.0,"1 bedroom apartment in Negombo, with parking, close to the beach",8
+355,Jaffna,Land,0,0,30,10950000.0,"30 perch land in Jaffna, with parking, with garden",10
+356,Jaffna,Apartment,5,1787,0,17010000.0,"5 bedroom apartment in Jaffna, close to the beach, near main road",10
+357,Kandy,Land,0,0,24,19340000.0,"24 perch land in Kandy, newly renovated, near hospital",4
+358,Jaffna,House,3,1267,32,25280000.0,"3 bedroom house in Jaffna, near school, quiet neighbourhood",10
+359,Colombo,Apartment,3,2688,0,86600000.0,"3 bedroom apartment in Colombo, quiet neighbourhood, near main road",3
+360,Matara,House,4,1229,20,26780000.0,"4 bedroom house in Matara, with garden, close to the beach",12
+361,Kataragama,Apartment,4,2770,0,17300000.0,"4 bedroom apartment in Kataragama, quiet neighbourhood, with parking",13
+362,Jaffna,Apartment,2,3130,0,25960000.0,"2 bedroom apartment in Jaffna, quiet neighbourhood, with parking",10
+363,Kandy,Land,0,0,34,28550000.0,"34 perch land in Kandy, newly renovated, near main road",4
+364,Jaffna,Land,0,0,26,9840000.0,"26 perch land in Jaffna, near main road, newly renovated",10
+365,Colombo,House,5,3159,8,106060000.0,"5 bedroom house in Colombo, quiet neighbourhood, with garden",2
+366,Kurunegala,Apartment,3,800,0,11380000.0,"3 bedroom apartment in Kurunegala, newly renovated, with parking",11
+367,Negombo,Apartment,1,1680,0,26170000.0,"1 bedroom apartment in Negombo, near main road, close to the beach",8
+368,Galle,House,4,1117,10,32650000.0,"4 bedroom house in Galle, close to the beach, newly renovated",6
+369,Colombo,House,1,1067,35,74080000.0,"1 bedroom house in Colombo, near main road, with garden",1
+370,Kataragama,House,4,1113,12,13900000.0,"4 bedroom house in Kataragama, with parking, quiet neighbourhood",13
+371,Galle,Apartment,1,653,0,11250000.0,"1 bedroom apartment in Galle, near hospital, newly renovated",6
+372,Matara,House,2,3380,39,55660000.0,"2 bedroom house in Matara, newly renovated, near school",12
+373,Negombo,Land,0,0,33,20280000.0,"33 perch land in Negombo, with garden, newly renovated",9
+374,Galle,House,5,1894,12,44080000.0,"5 bedroom house in Galle, near main road, newly renovated",7
+375,Jaffna,Land,0,0,18,6780000.0,"18 perch land in Jaffna, quiet neighbourhood, near school",10
+376,Colombo,House,1,3966,23,142730000.0,"1 bedroom house in Colombo, near school, quiet neighbourhood",2
+377,Matara,Apartment,2,3487,0,37810000.0,"2 bedroom apartment in Matara, close to the beach, near school",12
+378,Matara,House,5,980,37,33900000.0,"5 bedroom house in Matara, near school, near hospital",12
+379,Negombo,Apartment,4,3957,0,67790000.0,"4 bedroom apartment in Negombo, with parking, newly renovated",8
+380,Galle,Land,0,0,39,24430000.0,"39 perch land in Galle, near hospital, near main road",7
+381,Colombo,Land,0,0,6,7720000.0,"6 perch land in Colombo, newly renovated, with garden",1
+382,Jaffna,Land,0,0,13,4680000.0,"13 perch land in Jaffna, newly renovated, with parking",10
+383,Jaffna,House,1,3712,24,38880000.0,"1 bedroom house in Jaffna, near school, with parking",10
+384,Kandy,House,5,1875,6,38270000.0,"5 bedroom house in Kandy, quiet neighbourhood, with parking",4
+385,Colombo,House,4,1142,17,61040000.0,"4 bedroom house in Colombo, with parking, near main road",1
+386,Colombo,House,1,3562,10,94810000.0,"1 bedroom house in Colombo, near hospital, near school",2
+387,Colombo,Apartment,4,3835,0,118250000.0,"4 bedroom apartment in Colombo, near main road, near school",3
+388,Kataragama,Apartment,3,3914,0,24750000.0,"3 bedroom apartment in Kataragama, with parking, quiet neighbourhood",13
+389,Jaffna,Apartment,1,3844,0,27760000.0,"1 bedroom apartment in Jaffna, close to the beach, with garden",10
+390,Kandy,Land,0,0,11,8860000.0,"11 perch land in Kandy, near school, quiet neighbourhood",4
+391,Matara,Apartment,1,2090,0,20880000.0,"1 bedroom apartment in Matara, near hospital, with parking",12
+392,Kandy,Land,0,0,24,18700000.0,"24 perch land in Kandy, with parking, close to the beach",5
+393,Galle,House,5,2660,17,55030000.0,"5 bedroom house in Galle, with parking, near school",6
+394,Kurunegala,House,4,1272,36,34190000.0,"4 bedroom house in Kurunegala, near main road, near hospital",11
+395,Matara,Apartment,1,2156,0,23530000.0,"1 bedroom apartment in Matara, near school, quiet neighbourhood",12
+396,Kataragama,Land,0,0,23,6840000.0,"23 perch land in Kataragama, near main road, close to the beach",13
+397,Colombo,House,3,3813,28,149510000.0,"3 bedroom house in Colombo, close to the beach, quiet neighbourhood",3
+398,Kandy,Apartment,5,1511,0,36100000.0,"5 bedroom apartment in Kandy, near main road, with parking",4
+399,Galle,Apartment,4,1381,0,26660000.0,"4 bedroom apartment in Galle, quiet neighbourhood, close to the beach",6
+400,Galle,House,2,3071,12,47220000.0,"2 bedroom house in Galle, quiet neighbourhood, near hospital",7
+401,Jaffna,House,3,522,22,15320000.0,"3 bedroom house in Jaffna, with garden, near school",10
+402,Kataragama,Land,0,0,33,9490000.0,"33 perch land in Kataragama, with parking, newly renovated",13
+403,Galle,Apartment,4,3110,0,54740000.0,"4 bedroom apartment in Galle, close to the beach, near hospital",7
+404,Jaffna,House,2,2428,26,31120000.0,"2 bedroom house in Jaffna, near main road, close to the beach",10
+405,Negombo,Land,0,0,27,18650000.0,"27 perch land in Negombo, with parking, close to the beach",8
+406,Kurunegala,House,2,3399,35,49350000.0,"2 bedroom house in Kurunegala, quiet neighbourhood, near main road",11
+407,Negombo,Land,0,0,26,17260000.0,"26 perch land in Negombo, near main road, near school",9
+408,Kandy,House,1,2986,38,80960000.0,"1 bedroom house in Kandy, near main road, quiet neighbourhood",4
+409,Jaffna,Apartment,1,2124,0,15770000.0,"1 bedroom apartment in Jaffna, near main road, with parking",10
+410,Colombo,House,5,593,17,58030000.0,"5 bedroom house in Colombo, near hospital, close to the beach",3
+411,Kandy,House,1,2356,8,47290000.0,"1 bedroom house in Kandy, near main road, close to the beach",5
+412,Kandy,Land,0,0,8,5840000.0,"8 perch land in Kandy, near main road, with parking",4
+413,Galle,House,1,3758,21,63420000.0,"1 bedroom house in Galle, newly renovated, close to the beach",7
+414,Kandy,House,4,2605,12,51730000.0,"4 bedroom house in Kandy, with garden, quiet neighbourhood",4
+415,Colombo,House,2,1802,19,74560000.0,"2 bedroom house in Colombo, close to the beach, newly renovated",1
+416,Matara,Apartment,3,2201,0,21980000.0,"3 bedroom apartment in Matara, near school, near main road",12
+417,Jaffna,Land,0,0,26,9910000.0,"26 perch land in Jaffna, newly renovated, with garden",10
+418,Colombo,Land,0,0,38,58720000.0,"38 perch land in Colombo, newly renovated, near school",1
+419,Galle,House,3,1509,34,54280000.0,"3 bedroom house in Galle, near hospital, close to the beach",6
+420,Kurunegala,House,3,1965,18,25560000.0,"3 bedroom house in Kurunegala, newly renovated, near hospital",11
+421,Jaffna,House,2,1405,16,18830000.0,"2 bedroom house in Jaffna, quiet neighbourhood, with garden",10
+422,Matara,Apartment,3,3152,0,39170000.0,"3 bedroom apartment in Matara, newly renovated, quiet neighbourhood",12
+423,Kataragama,Land,0,0,9,2730000.0,"9 perch land in Kataragama, with parking, with garden",13
+424,Kurunegala,Apartment,3,3393,0,34410000.0,"3 bedroom apartment in Kurunegala, with garden, near hospital",11
+425,Negombo,Apartment,2,1719,0,22500000.0,"2 bedroom apartment in Negombo, near hospital, with parking",9
+426,Kandy,House,1,2464,11,49180000.0,"1 bedroom house in Kandy, newly renovated, near main road",4
+427,Kataragama,Land,0,0,26,7490000.0,"26 perch land in Kataragama, with garden, near main road",13
+428,Kataragama,House,1,1848,16,17800000.0,"1 bedroom house in Kataragama, with parking, near main road",13
+429,Colombo,House,1,3141,11,90360000.0,"1 bedroom house in Colombo, close to the beach, with parking",2
+430,Matara,House,5,1447,27,35780000.0,"5 bedroom house in Matara, newly renovated, with garden",12
+431,Colombo,House,1,962,11,48070000.0,"1 bedroom house in Colombo, close to the beach, near school",3
+432,Matara,House,3,2326,28,38290000.0,"3 bedroom house in Matara, near main road, with garden",12
+433,Kataragama,House,5,1068,10,12800000.0,"5 bedroom house in Kataragama, near hospital, near main road",13
+434,Kandy,House,5,1601,20,41370000.0,"5 bedroom house in Kandy, quiet neighbourhood, close to the beach",4
+435,Negombo,Apartment,1,2076,0,29190000.0,"1 bedroom apartment in Negombo, quiet neighbourhood, with garden",9
+436,Colombo,House,1,2474,13,83860000.0,"1 bedroom house in Colombo, newly renovated, quiet neighbourhood",1
+437,Kurunegala,House,2,2737,31,35900000.0,"2 bedroom house in Kurunegala, with garden, near hospital",11
+438,Jaffna,Land,0,0,30,11190000.0,"30 perch land in Jaffna, close to the beach, near hospital",10
+439,Colombo,Apartment,5,3455,0,107280000.0,"5 bedroom apartment in Colombo, with parking, quiet neighbourhood",3
+440,Negombo,Apartment,2,731,0,12310000.0,"2 bedroom apartment in Negombo, close to the beach, with garden",9
+441,Jaffna,House,1,1768,30,23400000.0,"1 bedroom house in Jaffna, with parking, quiet neighbourhood",10
+442,Galle,Land,0,0,37,27120000.0,"37 perch land in Galle, newly renovated, with parking",7
+443,Kandy,House,5,533,31,44100000.0,"5 bedroom house in Kandy, newly renovated, near hospital",4
+444,Negombo,House,1,1242,11,25720000.0,"1 bedroom house in Negombo, quiet neighbourhood, near main road",8
+445,Kurunegala,Land,0,0,33,15590000.0,"33 perch land in Kurunegala, close to the beach, quiet neighbourhood",11
+446,Matara,Apartment,1,3630,0,33800000.0,"1 bedroom apartment in Matara, quiet neighbourhood, near main road",12
+447,Galle,Apartment,1,3207,0,45210000.0,"1 bedroom apartment in Galle, newly renovated, near main road",7
+448,Jaffna,Apartment,5,2762,0,24980000.0,"5 bedroom apartment in Jaffna, near school, quiet neighbourhood",10
+449,Kurunegala,Apartment,1,3223,0,29070000.0,"1 bedroom apartment in Kurunegala, near hospital, with parking",11
+450,Galle,House,2,1101,23,35170000.0,"2 bedroom house in Galle, near school, near hospital",6
+451,Jaffna,House,5,3439,6,29740000.0,"5 bedroom house in Jaffna, newly renovated, with parking",10
+452,Jaffna,House,4,3615,22,39330000.0,"4 bedroom house in Jaffna, near main road, near hospital",10
+453,Negombo,House,1,832,37,39680000.0,"1 bedroom house in Negombo, near school, newly renovated",9
+454,Colombo,Land,0,0,20,20700000.0,"20 perch land in Colombo, with garden, with parking",2
+455,Kurunegala,House,5,3405,14,47030000.0,"5 bedroom house in Kurunegala, near main road, with garden",11
+456,Kurunegala,Apartment,3,2166,0,17460000.0,"3 bedroom apartment in Kurunegala, with garden, newly renovated",11
+457,Kandy,Apartment,3,3441,0,55870000.0,"3 bedroom apartment in Kandy, newly renovated, quiet neighbourhood",5
+458,Matara,Apartment,3,3774,0,44710000.0,"3 bedroom apartment in Matara, quiet neighbourhood, with parking",12
+459,Kataragama,House,4,2161,22,23300000.0,"4 bedroom house in Kataragama, close to the beach, near school",13
+460,Colombo,House,1,708,21,45080000.0,"1 bedroom house in Colombo, with parking, quiet neighbourhood",2
+461,Matara,Land,0,0,37,16710000.0,"37 perch land in Matara, with garden, close to the beach",12
+462,Kandy,Apartment,5,1253,0,31780000.0,"5 bedroom apartment in Kandy, newly renovated, near hospital",4
+463,Matara,Land,0,0,39,16340000.0,"39 perch land in Matara, with parking, quiet neighbourhood",12
+464,Negombo,Land,0,0,7,5150000.0,"7 perch land in Negombo, with parking, close to the beach",8
+465,Colombo,Apartment,5,2123,0,74990000.0,"5 bedroom apartment in Colombo, close to the beach, newly renovated",2
+466,Jaffna,House,4,1184,25,19330000.0,"4 bedroom house in Jaffna, near main road, near hospital",10
+467,Kandy,Apartment,2,1554,0,26560000.0,"2 bedroom apartment in Kandy, near hospital, quiet neighbourhood",4
+468,Kurunegala,House,3,2878,12,32060000.0,"3 bedroom house in Kurunegala, quiet neighbourhood, newly renovated",11
+469,Kandy,Apartment,5,594,0,20620000.0,"5 bedroom apartment in Kandy, with garden, near main road",5
+470,Jaffna,Land,0,0,27,10290000.0,"27 perch land in Jaffna, with garden, newly renovated",10
+471,Matara,Apartment,5,3623,0,36630000.0,"5 bedroom apartment in Matara, close to the beach, near hospital",12
+472,Kataragama,House,5,847,6,11060000.0,"5 bedroom house in Kataragama, near main road, with garden",13
+473,Negombo,House,4,1951,25,46930000.0,"4 bedroom house in Negombo, with garden, near hospital",8
+474,Negombo,Land,0,0,39,29050000.0,"39 perch land in Negombo, close to the beach, with parking",9
+475,Matara,House,3,866,5,13390000.0,"3 bedroom house in Matara, near main road, newly renovated",12
+476,Kataragama,House,1,1979,21,22480000.0,"1 bedroom house in Kataragama, quiet neighbourhood, with parking",13
+477,Kataragama,House,5,2325,22,25710000.0,"5 bedroom house in Kataragama, near main road, newly renovated",13
+478,Colombo,House,2,1116,36,77940000.0,"2 bedroom house in Colombo, quiet neighbourhood, close to the beach",2
+479,Matara,House,1,772,14,15030000.0,"1 bedroom house in Matara, with garden, near main road",12
+480,Colombo,Apartment,4,971,0,38010000.0,"4 bedroom apartment in Colombo, quiet neighbourhood, near main road",1
+481,Galle,House,4,2780,30,58350000.0,"4 bedroom house in Galle, with garden, near hospital",7
+482,Kataragama,House,4,3510,7,27890000.0,"4 bedroom house in Kataragama, near main road, near hospital",13
+483,Galle,House,1,1131,33,35480000.0,"1 bedroom house in Galle, with garden, quiet neighbourhood",6
+484,Kataragama,House,4,1621,33,19790000.0,"4 bedroom house in Kataragama, close to the beach, with parking",13
+485,Negombo,House,4,1703,30,48910000.0,"4 bedroom house in Negombo, near main road, newly renovated",9
+486,Kandy,Apartment,4,1762,0,30050000.0,"4 bedroom apartment in Kandy, near school, quiet neighbourhood",4
+487,Galle,House,5,1355,31,45320000.0,"5 bedroom house in Galle, quiet neighbourhood, near main road",6
+488,Kurunegala,House,2,693,32,21360000.0,"2 bedroom house in Kurunegala, with parking, quiet neighbourhood",11
+489,Kataragama,House,2,2338,36,25820000.0,"2 bedroom house in Kataragama, newly renovated, near school",13
+490,Kurunegala,House,5,1750,19,35150000.0,"5 bedroom house in Kurunegala, newly renovated, near school",11
+491,Jaffna,House,3,1697,20,22400000.0,"3 bedroom house in Jaffna, near school, with parking",10
+492,Kataragama,House,3,1426,27,20400000.0,"3 bedroom house in Kataragama, newly renovated, near hospital",13
+493,Kataragama,Land,0,0,11,2970000.0,"11 perch land in Kataragama, with garden, with parking",13
+494,Kurunegala,House,4,2636,34,41530000.0,"4 bedroom house in Kurunegala, near main road, quiet neighbourhood",11
+495,Galle,Apartment,4,1965,0,34310000.0,"4 bedroom apartment in Galle, with garden, close to the beach",6
+496,Negombo,House,1,1218,27,33480000.0,"1 bedroom house in Negombo, with parking, with garden",8
+497,Colombo,House,3,3303,15,128970000.0,"3 bedroom house in Colombo, with parking, near school",1
+498,Galle,House,5,3609,17,62540000.0,"5 bedroom house in Galle, with garden, near school",7
+499,Jaffna,Apartment,2,613,0,6190000.0,"2 bedroom apartment in Jaffna, with parking, quiet neighbourhood",10
+500,Negombo,Land,0,0,28,18010000.0,"28 perch land in Negombo, near school, newly renovated",8
