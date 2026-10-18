@@ -8,7 +8,7 @@ load_dotenv()
 load_dotenv(Path(__file__).resolve().parent / ".env")
 
 from services.database import init_db
-from routers import deals, marketplace, price
+from routers import deals, describe, marketplace, price
 
 init_db()
 
@@ -25,6 +25,7 @@ app.add_middleware(
 app.include_router(price.router)
 app.include_router(marketplace.router)
 app.include_router(deals.router)
+app.include_router(describe.router)
 
 
 @app.get("/api/health")
